@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Ralf Bohnsack
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Universitätsprofessor a.D. der Freien Universität Berlin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Freien Universität Berlin
+    url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -45,6 +45,18 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+
+education2:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008      
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbeiten und Publikationen und deren Schwerpunkte geben. Dazu gehören unter anderem die Rekonstruktive Sozialforschung, die Dokumentarische Methode und die Praxeologische Wissenssoziologie sowie die Gesprächsanalyse und die Bild- und Videointerpretation.
 {style="text-align: justify;"}
