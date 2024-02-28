@@ -3,7 +3,8 @@
 title: Ralf Bohnsack
 
 # Name pronunciation (optional)
-name_pronunciation: Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz
+name_pronunciation: Prof. Dr. rer. soc., 
+<br> Dr. phil. habil., Dipl.-Soz
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Universitätsprofessor a.D. der Freien Universität Berlin
+role: Universitätsprofessor a.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
