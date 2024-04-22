@@ -33,9 +33,11 @@ authors:
 
 ---
 
-Mein Forschungsschwerpunkt liegt methodologisch im Bereich der Dokumentarischen Methode und ist grundlagentheoretisch im Bereich der Praxeologischen Wissenssoziologie verortet. Die beiden Bereiche lassen sich als zwei Seiten derselben Medaille verstehen. {style="text-align: justify;"}
+Mein Forschungsschwerpunkt liegt methodologisch im Bereich der Dokumentarischen Methode und ist grundlagentheoretisch im Bereich der Praxeologischen Wissenssoziologie verortet. Die beiden Bereiche lassen sich als zwei Seiten derselben Medaille verstehen. 
+{style="text-align: justify;"}
 
-Wenn von der Dokumentarischen Methode die Rede ist, stehen die grundlagen- und erkenntnistheoretischen Begrifflichkeiten primär im Dienst der methodisch-methodologischen Bewältigung der empirischen Forschung. Dort, wo der Begriff Praxeologische Wissenssoziologie im Zentrum steht, kehrt sich dieses Verhältnis gleichsam um: Die Erfahrungen, welche auf der Grundlage empirischer Analysen gewonnen wurden, und deren methodische Reflexionen stehen dann primär im Dienst der begrifflich-definitorischen Vergewisserung, der Vertiefung der Grundlagentheorie sowie auch der Generierung neuer Kategorien. {style="text-align: justify;"}
+Wenn von der Dokumentarischen Methode die Rede ist, stehen die grundlagen- und erkenntnistheoretischen Begrifflichkeiten primär im Dienst der methodisch-methodologischen Bewältigung der empirischen Forschung. Dort, wo der Begriff Praxeologische Wissenssoziologie im Zentrum steht, kehrt sich dieses Verhältnis gleichsam um: Die Erfahrungen, welche auf der Grundlage empirischer Analysen gewonnen wurden, und deren methodische Reflexionen stehen dann primär im Dienst der begrifflich-definitorischen Vergewisserung, der Vertiefung der Grundlagentheorie sowie auch der Generierung neuer Kategorien. 
+{style="text-align: justify;"}
 
 ## Methodisch-methodologische Schwerpunkte
 
