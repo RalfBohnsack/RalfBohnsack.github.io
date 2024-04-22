@@ -95,7 +95,7 @@ social:
     icon_pack: fas
     link: 'mailto:bohnsack@zedat.fu-berlin.de'
   - icon: wikipedia
-    icon_pack: fcustom
+    icon_pack: custom
     link: https://de.wikipedia.org/wiki/Ralf_Bohnsack
     label: Wikipedia
     display:
@@ -103,9 +103,6 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Ralf-Bohnsack
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/qualitativ/mitarbeiter/rbohnsack/index.html
