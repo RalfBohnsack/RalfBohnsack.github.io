@@ -32,47 +32,12 @@ authors:
   - admin
 
 ---
----
-title: Curriculum Vitae
-subtitle: Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
-
-# Summary for listings and search engines
-summary: Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2020-12-13T00:00:00Z'
-
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
-
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
-authors:
-  - admin
----
 
 Mein Forschungsschwerpunkt liegt methodologisch im Bereich der Dokumentarischen Methode und ist grundlagentheoretisch im Bereich der Praxeologischen Wissenssoziologie verortet. Die beiden Bereiche lassen sich als zwei Seiten derselben Medaille verstehen.
 
 Wenn von der Dokumentarischen Methode die Rede ist, stehen die grundlagen- und erkenntnistheoretischen Begrifflichkeiten primär im Dienst der methodisch-methodologischen Bewältigung der empirischen Forschung. Dort, wo der Begriff Praxeologische Wissenssoziologie im Zentrum steht, kehrt sich dieses Verhältnis gleichsam um: Die Erfahrungen, welche auf der Grundlage empirischer Analysen gewonnen wurden, und deren methodische Reflexionen stehen dann primär im Dienst der begrifflich-definitorischen Vergewisserung, der Vertiefung der Grundlagentheorie sowie auch der Generierung neuer Kategorien. 
 
 ## Methodisch-methodologische Schwerpunkte
-
-
 
 Im Zentrum steht die fortschreitende Elaboration unterschiedlicher methodischer Zugänge und ihrer Triangulation (Kombination und Integration) auf der Grundlage einer rekonstruktiv-praxeologischen Methodologie, also der Dokumentarischen Methode. Diese differenziert sich in die folgenden Schwerpunkte:
 
@@ -84,7 +49,6 @@ Im Zentrum steht die fortschreitende Elaboration unterschiedlicher methodischer 
   6. Die Dokumentarische Methode geht über die in der qualitativen Forschung üblichen Fallanalysen hinaus und strebt Generalisierungen an, die auf der Grundlage der Bildung von (Ideal-) Typen, der praxeologischen Typenbildung, möglich werden, die eine mehrdimensionale Analyse voraussetzt.
 
 Diese Zugänge und ihre methodologische Grundlage haben breite transdisziplinäre Anwendung gefunden – innerhalb der Sozialwissenschaften und darüber hinaus. Da eine vertiefte Aneignung von Methoden die Einübung in eine Forschungspraxis voraussetzt, habe ich sie vorzugsweise im Rahmen von Forschungswerkstätten vermittelt. Dabei war ich – mit einem Schwerpunkt in der Erziehungswissenschaft – an der transdisziplinären Zusammensetzung der Forschungswerkstätten für Graduierte innerhalb der gesamten Sozialwissenschaften und darüber hinaus orientiert.
-
 
 ## Grundlagentheoretische Schwerpunkte
 

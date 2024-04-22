@@ -1,5 +1,5 @@
 ---
-title: Forschungsschwerpunkte
+title: Publikationsliste
 subtitle: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
 
 # Summary for listings and search engines
