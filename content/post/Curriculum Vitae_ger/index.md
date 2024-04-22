@@ -1,7 +1,5 @@
 ---
-title: 
-Curriculum Vitae
-
+title: Curriculum Vitae
 subtitle: Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
 
 # Summary for listings and search engines
