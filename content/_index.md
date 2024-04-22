@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography - WORK IN PROGRESS - This site is actively worked on
+      title: Professor. Dr. Ralf Bohnsack
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills

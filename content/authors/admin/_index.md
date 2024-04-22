@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Professor. Dr. Ralf Bohnsack
+#title: Professor. Dr. Ralf Bohnsack
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
