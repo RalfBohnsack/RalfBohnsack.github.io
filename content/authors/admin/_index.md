@@ -97,9 +97,6 @@ social:
   - icon: wikipedia
     icon_pack: custom
     link: https://de.wikipedia.org/wiki/Ralf_Bohnsack
-    label: Wikipedia
-    display:
-      header: true
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Ralf-Bohnsack
