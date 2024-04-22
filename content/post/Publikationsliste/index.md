@@ -37,7 +37,7 @@ Meine Publikationen von heute bis 1973 finden sich auf dieser Seite als umfassen
 
 1. <a href="#monografien">Monografien</a>
 2. <a href="#aufsatze">Monografien</a>
-3. H<a href="#herausgeberschaften">Monografien</a>
+3. <a href="#herausgeberschaften">Monografien</a>
 4. <a href="#reihen">Monografien</a>
 5. <a href="#beirat">Monografien</a>
 
