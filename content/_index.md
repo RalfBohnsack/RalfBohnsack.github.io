@@ -130,9 +130,9 @@ sections:
   #  design:
   #    columns: '2'
   - block: collection
-    id: posts
+    id: inhalte
     content:
-      title: Recent Posts
+      title: Inhalte
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
