@@ -637,3 +637,5 @@ Sozialer Sinn: Zeitschrift für hermeneutische Sozialforschung. Verlag Lucius u.
 zbf: Zeitschrift für Bildungsforschung. Verlag Springer VS.
 
 Zeitschrift für Soziologie. Verlag Lucius u. Lucius (bis 2021).
+
+<a href="#monografien">Link to the Anchor</a>
