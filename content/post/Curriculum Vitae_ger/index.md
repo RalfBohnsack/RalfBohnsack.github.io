@@ -1,9 +1,9 @@
 ---
 title: Curriculum Vitae
-subtitle: Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
+subtitle: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
 
 # Summary for listings and search engines
-summary: Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
+summary: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
 
 # Link this post with a project
 projects: []
