@@ -28,23 +28,23 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Education to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +120,9 @@ social:
 highlight_name: true
 ---
 
-Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbeiten und Publikationen und deren Schwerpunkte geben. Dazu gehören unter anderem die Rekonstruktive Sozialforschung, die Dokumentarische Methode und die Praxeologische Wissenssoziologie sowie die Gesprächsanalyse und die Bild- und Videointerpretation.
+Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbeiten und Publikationen und deren Schwerpunkte geben. Dazu gehören unter anderem die Rekonstruktive Sozialforschung, die Dokumentarische Methode und die Praxeologische Wissenssoziologie sowie die Gesprächsanalyse und die Bild- und Videointerpretation.<br>
+Hier finden Sie:<br>
+- Forschungsschwerpunkt: Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschun
+- Curriculum Vitae: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
+- Publikationsliste: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
 {style="text-align: justify;"}
