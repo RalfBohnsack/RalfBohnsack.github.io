@@ -28,13 +28,15 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-#interests:
+Forschungsschwerpunkte:
+Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.
 #  - Artificial Intelligence
 #  - Computational Linguistics
 #  - Information Retrieval
 
 # Education to show in About widget
-#education:
+Curriculum Vitae:
+Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
 #  courses:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
