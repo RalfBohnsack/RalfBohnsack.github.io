@@ -94,8 +94,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:bohnsack@zedat.fu-berlin.de'
-  - icon: envelope
-    icon_pack: fas
+  - icon: wikipedia-w
+    icon_pack: fab
     link: https://de.wikipedia.org/wiki/Ralf_Bohnsack   
   - icon: researchgate
     icon_pack: ai
