@@ -121,8 +121,10 @@ highlight_name: true
 ---
 
 Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbeiten und Publikationen und deren Schwerpunkte geben. Dazu gehören unter anderem die Rekonstruktive Sozialforschung, die Dokumentarische Methode und die Praxeologische Wissenssoziologie sowie die Gesprächsanalyse und die Bild- und Videointerpretation.<br>
+{style="text-align: justify;"}
+
 Hier finden Sie:<br>
-- Forschungsschwerpunkt: Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschun
-- Curriculum Vitae: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
-- Publikationsliste: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte/): Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschun
+- [**Curriculum Vitae**](/post/curriculum-vitae_ger/): Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
+- [**Publikationsliste**](/post/publikationsliste/): Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
 {style="text-align: justify;"}
