@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Universitätsprofessor a.D. der Freien Universität Berlin
+#role: Universitätsprofessor a.D. der Freien Universität Berlin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Freie Universität Berlin
+  - name: Universitätsprofessor a.D. der Freien Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbeiten und Publikationen und deren Schwerpunkte geben. Dazu gehören unter anderem die Rekonstruktive Sozialforschung, die Dokumentarische Methode und die Praxeologische Wissenssoziologie sowie die Gesprächsanalyse und die Bild- und Videointerpretation.
 {style="text-align: justify;"}
