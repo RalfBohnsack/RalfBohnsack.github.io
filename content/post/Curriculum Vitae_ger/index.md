@@ -34,6 +34,7 @@ authors:
 
 
 Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
+{style="text-align: justify;"}
 
 
 ## An den Universitäten Münster und Bielefeld | 1967-1977
