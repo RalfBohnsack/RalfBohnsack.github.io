@@ -19,11 +19,10 @@ main:
   - name: Publikationsliste
     url: '/post/publikationsliste_ger/'
     weight: 50
-    children:
-      - name: Publikationsliste nach Forschungsschwerpunkten
+  - name: Publikationsliste nach Forschungsschwerpunkten
         url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
         weight: 51
-      - name: Fremdsprachige Publikationen
+  - name: Fremdsprachige Publikationen
         url: '/post/publikationsliste_foreign_ger/'
         weight: 52
 
