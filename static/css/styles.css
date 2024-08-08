@@ -4,3 +4,11 @@
     padding: 20px;
   }
   
+  .content {
+    text-align: left; /* Ensure text is left-aligned */
+  }
+  
+  .content h2 {
+    font-weight: bold; /* Make ## headings bold */
+  }
+  
