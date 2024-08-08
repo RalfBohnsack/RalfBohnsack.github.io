@@ -11,13 +11,13 @@ main:
     url: '#inhalte'
     weight: 20
   - name: Forschungsschwerpunkte
-    url: '/post/forschungsschwerpunkte/'
+    url: '/post/forschungsschwerpunkte_ger/'
     weight: 30
   - name: Curriculum Vitae
     url: '/post/curriculum-vitae_ger/'
     weight: 40
   - name: Publikationsliste
-    url: '/post/publikationsliste/'
+    url: '/post/publikationsliste_ger/'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
