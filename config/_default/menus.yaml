@@ -19,6 +19,13 @@ main:
   - name: Publikationsliste
     url: '/post/publikationsliste_ger/'
     weight: 50
+    children:
+      - name: Publikationsliste nach Forschungsschwerpunkten
+        url: '/post/publication_1'
+        weight: 51
+      - name: Fremdsprachige Publikationen
+        url: '/post/publication_2'
+        weight: 52
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

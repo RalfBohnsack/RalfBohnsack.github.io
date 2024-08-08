@@ -37,7 +37,6 @@ The focus of my research is based methodologically on the documentary method and
 
 Concerning the documentary method, the basic and epistemological concepts are primarily in the service of the methodical and methodological implementation of empirical research. This relationship is reversed if the praxeological sociology of knowledge constitutes the major point of interest: The experiences gained through empirical inquiry and the corresponding methodological reflections are then primarily in the service of conceptual definitions, the deepening of the underlying meta-theoretical foundation, as well as the generation of new categories.
 
-
 ## Methodical-Methodological Focus
 
 My methodical-methodological focus is on the progressive elaboration of different methodological approaches and their triangulation (combination and integration) – both based on the documentary method as a reconstructive-praxeological methodology. This includes the following branches:

@@ -33,16 +33,16 @@ authors:
 
 ---
 
-Meine Publikationen von heute bis 1973 finden sich auf dieser Seite als umfassende Gesamtliste. Ebenso finden sich sortierte Listen hinsichtlich meiner Forschungsschwerpunkte und meiner fremdsprachigen Tite
+This page contains a comprehensive list of all of my publications since 1973. Alternatively, you will also find lists of my publications by research focus and my non-German publications.
 
-1. <a href="#monografien">Monografien</a>
-2. <a href="#aufsatze">Aufsätze</a>
-3. <a href="#herausgeberschaften">Herausgeberschaften</a>
-4. <a href="#reihen">Reihen und Zeitschriften</a>
-5. <a href="#beirat">Beiratsmitgliedschaften</a>
+1. <a href="#monografien">Monographs</a>
+2. <a href="#aufsatze">Articles</a>
+3. <a href="#herausgeberschaften">Editorial Boards</a>
+4. <a href="#reihen">Editorial Boards of Series and Journals</a>
+5. <a href="#beirat">Advisory Boards of Academic Journals</a>
 
 <a id="monografien"></a> <!-- This is the anchor -->
-## Monografien
+## Monographs
 
 Ralf Bohnsack, Vera Sparschuh (2022):  Die Theorie der Praxis und die Praxis der Forschung. Ralf Bohnsack im Gespräch mit Vera Sparschuh. Opladen, Berlin, Toronto: Barbara Budrich.
 
@@ -86,7 +86,7 @@ nach Gemeinsamkeit und die Gewalt der Gruppe. Hooligans, Musikgruppen und andere
 (1973): Handlungskompetenz und Jugendkriminalität. Neuwied u. Berlin: Luchterhand.
 
 <a id="aufsatze"></a> <!-- This is the anchor -->
-## Aufsätze
+## Articles
 
 **2022**
 
@@ -579,7 +579,7 @@ Beziehung zur Handlungskompetenz der Tatverdächtigen. In: Kriminologisches
 Journal, 5. Jg., Heft 4, 270-290.
 
 <a id="herausgeberschaften"></a> <!-- This is the anchor -->
-## Herausgeberschaften
+## Editorial Boards
 
 Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (2022): Praxeologisch-wissenssoziologische Professionsforschung in Handlungsfeldern der Pädagogik und Sozialen Arbeit. Bad Heilbrunn: Klinkhardt.
 
@@ -620,7 +620,7 @@ Arbeitsgruppe Bielefelder Soziologen (Ralf Bohnsack, Werner Meinefeld, Fritz Sch
 Arbeitsgruppe Bielefelder Soziologen (Joachim Matthes, Werner Meinefeld, Fritz Schutze, Werner Springer, Ansgar Weymann, Ralf Bohnsack) (1981): Alltagswissen, Interaktion und gesellschaftliche Wirklichkeit. Reinbek b. Hamburg: Westdeutscher Verlag.
 
 <a id="reihen"></a> <!-- This is the anchor -->
-## Reihen und Zeitschriften
+## Editorial Boards of Series and Journals
 
 Reihe: Sozialwissenschaftliche Ikonologie: Qualitative Bild-und Videointerpretation (gemeinsam mit Aglaja Przyborski / Jürgen Raab / Thomas Slunecko). Opladen, Berlin, Toronto: Barbara Budrich.
 
@@ -629,7 +629,7 @@ Reihe: Qualitative Sozialforschung (bis 2018) (gemeinsam mit Uwe Flick / Christi
 ZQF: Zeitschrift für Qualitative Sozialforschung. (gemeinsam mit Jörg Frommer / Heinz-Hermann Krüger / Nicolle Pfaff / Aglaja Przyborski / Jürgen Raab). Opladen u. Farmington Hills: Barbara Budrich.
 
 <a id="beirat"></a> <!-- This is the anchor -->
-## Beiratsmitgliedschaften
+## Advisory Boards of Academic Journals
 
 Diskurs Kindheits- und Jugendforschung. Verlag Barbara Budrich.
 
