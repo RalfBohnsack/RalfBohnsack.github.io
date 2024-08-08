@@ -12,3 +12,12 @@
     font-weight: bold; /* Make ## headings bold */
   }
   
+  /* Optional: Ensure all other headings are bold as well */
+  .content h1, 
+  .content h3, 
+  .content h4, 
+  .content h5, 
+  .content h6 {
+    font-weight: bold;
+  }
+  
