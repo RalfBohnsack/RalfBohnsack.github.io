@@ -9,10 +9,10 @@ summary: The stages of my academic training, the positions and offices I held th
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+#date: '2020-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+#lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
