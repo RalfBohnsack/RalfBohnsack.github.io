@@ -16,17 +16,21 @@ main:
   - name: Curriculum Vitae
     url: '/post/curriculum-vitae_ger/'
     weight: 40
-  - name: Publikationsliste
+  - name: Publikationen
     url: '/post/publikationsliste_ger/'
     weight: 50
-  - name: Publikationsliste nach Forschungsschwerpunkten
-    parent: Publikationsliste
-    url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
+  - name: Publikationsliste
+    parent: Publikationen
+    url: '/post/publikationsliste_ger/'
     weight: 51
-  - name: Fremdsprachige Publikationen
-    parent: Publikationsliste
-    url: '/post/publikationsliste_foreign_ger/'
+  - name: Publikationsliste nach Forschungsschwerpunkten
+    parent: Publikationen
+    url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
     weight: 52
+  - name: Fremdsprachige Publikationen
+    parent: Publikationen
+    url: '/post/publikationsliste_foreign_ger/'
+    weight: 53
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
