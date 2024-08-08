@@ -1,11 +1,16 @@
 {{ define "main" }}
-<div class="post">
-  <h1>{{ .Title }}</h1>
-  {{ if .Date }}
-    <p>{{ .Date.Format "Jan 2, 2006" }}</p>
-  {{ end }}
-  <div class="content">
-    {{ .Content }}
+  <head>
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <div class="container">
+    <div class="post">
+      <h1>{{ .Title }}</h1>
+      {{ if .Date }}
+        <p>{{ .Date.Format "Jan 2, 2006" }}</p>
+      {{ end }}
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </div>
   </div>
-</div>
 {{ end }}
