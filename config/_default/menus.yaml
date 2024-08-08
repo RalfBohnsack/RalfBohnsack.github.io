@@ -21,10 +21,10 @@ main:
     weight: 50
     children:
       - name: Publikationsliste nach Forschungsschwerpunkten
-        url: '/post/Publikationsliste_forschungsschwerpunkte_ger'
+        url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
         weight: 51
       - name: Fremdsprachige Publikationen
-        url: '/post/Publikationsliste_foreign_ger'
+        url: '/post/publikationsliste_foreign_ger/'
         weight: 52
 
 # Link to a PDF of your resume/CV from the menu.
