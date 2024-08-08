@@ -1,9 +1,9 @@
 ---
 title: Publikationsliste
-subtitle: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+subtitle: A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
 
 # Summary for listings and search engines
-summary: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+summary: A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
 
 # Link this post with a project
 projects: []
