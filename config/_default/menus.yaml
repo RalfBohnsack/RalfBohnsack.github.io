@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Inhalte
-    url: '#inhalte'
-    weight: 20
+  #- name: Inhalte
+  #  url: '#inhalte'
+  #  weight: 20
   - name: Forschungsschwerpunkte
     url: '/post/forschungsschwerpunkte_ger/'
     weight: 30
