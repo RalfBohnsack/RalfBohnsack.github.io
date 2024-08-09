@@ -69,7 +69,7 @@ Ralf Bohnsack (2001): Dokumentarische Methode: Theorie und Praxis wissenssoziolo
 
 Ralf Bohnsack (2003): Dokumentarische Methode und sozialwissenschaftliche Hermeneutik. In: Zeitschrift für Erziehungswissenschaft (ZfE), 6. Jg., Heft 4, 550-570.
 
-Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich. 
+Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich.
 – Kapitel 5: Zur dokumentarischen Methode der Interpretation
 
 <a id="2"></a> <!-- This is the anchor -->
@@ -78,18 +78,17 @@ Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Grupp
 Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden. Opladen, Berlin, Toronto: UTB/Barbara Budrich.
 – Kapitel 7: Gruppendiskussionsverfahren und Gesprächsanalyse
 
-Ralf Bohnsack / Burkhard Schäffer (2013): Exemplarische Textinterpretation:
-Diskursorganisation und dokumentarische Methode. In: Ralf Bohnsack / Iris Nentwig- Gesemann / Arnd-Michael Nohl (Hrsg.): Die dokumentarische Methode und ihre Forschungspraxis.
+Ralf Bohnsack / Burkhard Schäffer (2013): Exemplarische Textinterpretation: Diskursorganisation und dokumentarische Methode. In: Ralf Bohnsack / Iris Nentwig- Gesemann / Arnd-Michael Nohl (Hrsg.): Die dokumentarische Methode und ihre Forschungspraxis.
 
-(2010): Documentary Method and Group Discussions. In: Ralf Bohnsack / Nicolle Pfaff / Wivian Weller (Eds.): Qualitative Analysis and Documentary Method in International Educational Research. Opladen & Farmington Hills: Barbara Budrich Publishers, 99-124.
+Ralf Bohnsack (2010): Documentary Method and Group Discussions. In: Ralf Bohnsack / Nicolle Pfaff / Wivian Weller (Eds.): Qualitative Analysis and Documentary Method in International Educational Research. Opladen & Farmington Hills: Barbara Budrich Publishers, 99-124.
 
-Ralf Bohnsack (2010): Gruppendiskussionsverfahren und dokumentarische Methode. In: Barbara Friebertshäuser/ Antje Langer/ Annedore Prengel (2010) (Hrsg.): Handbuch Qualitative Forschungsmethoden in der Erziehungswissenschaft- Weinheim: Juventa, 205-218.
+Ralf. Bohnsack (2010): Gruppendiskussionsverfahren und dokumentarische Methode. In: Barbara Friebertshäuser/ Antje Langer/ Annedore Prengel (2010) (Hrsg.): Handbuch Qualitative Forschungsmethoden in der Erziehungswissenschaft- Weinheim: Juventa, 205-218.
 
-Ralf Bohnsack / Aglaja Przyborsky (2010): Diskursorganisation, Gesprächsanalyse und die Methode der Gruppendiskussion. In: Ralf Bohnsack / Aglaja Przyborski / Burkhard Schäffer (Hrsg.): Das Gruppendiskussionsverfahren in der Praxis. Opladen: Barbara Budrich, 233-248.
+Ralf Bohnsack / Aglaja Przyborski (2010): Diskursorganisation, Gesprächsanalyse und die Methode der Gruppendiskussion. In: Ralf Bohnsack / Aglaja Przyborski / Burkhard Schäffer (Hrsg.): Das Gruppendiskussionsverfahren in der Praxis. Opladen: Barbara Budrich, 233-248.
 
 Ralf Bohnsack / Aglaja Przyborski / Burkhard Schäffer (2010): Einleitung: Gruppendiskussion als Methode rekonstruktiver Sozialforschung. In: Ralf Bohnsack / Aglaja Przyborski / Burkhard Schäffer: Das Gruppendiskussionsverfahren in der Praxis. Opladen: Barbara Budrich, 7-22.
 
-(2004): Group Discussion and Focus Groups. In: Uwe Flick / Ernst von Kardorff / Ines Steinke (Eds), A Companion to Qualitative Research. London: Sage, 214-220.
+Ralf Bohnsack (2004): Group Discussion and Focus Groups. In: Uwe Flick / Ernst von Kardorff / Ines Steinke (Eds), A Companion to Qualitative Research. London: Sage, 214-220.
 
 Ralf Bohnsack (2000): Gruppendiskussion. In: Uwe Flick / Ernst v. Kardorff / Ines Steinke (Hrsg.): Qualitative Forschung: Ein Handbuch. Reinbek b. Hamburg: Rowohlt, 369-384.
 
@@ -109,14 +108,14 @@ Ralf Bohnsack (2017): Praxeologische Wissenssoziologie. Opladen u. Toronto: UTB/
 Ralf Bohnsack / Burkard Michel / Aglaja Przyborski (2015): Dokumentarische Bildinterpretation. Methodologie und Forschungspraxis. In: Ralf Bohnsack / Burkard Michel / Aglaja Przyborski (Hrsg.): Dokumentarische Bildinterpretation. Methodologie und Forschungspraxis. Opladen, Berlin, Toronto: Barbara Budrich, 11- 31.
 
 Ralf Bohnsack / Aglaja Przyborski (2015): Habitus, Pose und Lifestyle in der Ikonik. In: Ralf Bohnsack / Burkard Michel / Aglaja Przyborski (Hrsg.): Dokumentarische Bildinterpretation. Methodologie und Forschungspraxis. Opladen, Berlin, Toronto: Barbara Budrich, 343-363.
-
-(2014): The Interpretation of Pictures and the Documentary Method. In: Jason Hughes / John Goodwin (Eds.): Documentary & Archival Research. Thousand Oakes, London, New Delhi: Sage, 147-169.
+Ralf Bohnsack (2014): The Interpretation of Pictures and the Documentary Method. In: Jason Hughes / John Goodwin (Eds.): Documentary & Archival Research. Thousand Oakes, London, New Delhi: Sage, 147-169.
 
 Ralf Bohnsack (2013): »Heidi«: Eine exemplarische Bildinterpretation auf der Basis der dokumentarischen Methode. In: Ralf Bohnsack / Iris Nentwig-Gesemann/ Arnd- Michael Nohl (Hrsg.): Die dokumentarische Methode und ihre Forschungspraxis. Grundlagen qualitativer Sozialforschung. Wiesbaden: VS-Verlag, 347-362.
 
 Ralf Bohnsack (2011): Qualitative Bild- und Videointerpretation. Die dokumentarische Methode. Opladen u. Farmington Hills: UTB/ Barbara Budrich.
 – Kapitel 3: Dokumentarische Bildinterpretation
 – Kapitel 4: Zur Forschungspraxis dokumentarischer Bildinterpretation
+
 
 <a id="4"></a> <!-- This is the anchor -->
 ## Dokumentarische Video- und Filminterpretation
@@ -137,7 +136,8 @@ Ralf Bohnsack (2010): Zugänge zur Eigenlogik des Visuellen und die dokumentaris
 <a id="5"></a> <!-- This is the anchor -->
 ## Fremdrahmung und Macht
 
-Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden. Opladen, Berlin, Toronto: UTB/Barbara Budrich.
+(2024): Konstituierende Rahmung, konjunktiver Erfahrungsraum und praktisches Erkennen. In: Ralf Bohnsack/ Tanja Sturm/ Benjamin Wagner (Hrsg.), Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen: Barbara Budrich, 17-63
+- Kap. 7: Identitätsnorm und Subordination: Rahmungsmacht und Rahmungsherrschaft
 
 Ralf Bohnsack (2020): Professionalisierung in praxeologischer Perspektive. Zur Eigenlogik der Praxis in Lehramt, Sozialer Arbeit und Frühpädagogik. Opladen u. Toronto: UTB / Barbara Budrich.
 – Kapitel 8: Zur Variationsbreite professionalisierter Milieus
@@ -152,7 +152,7 @@ Ralf Bohnsack (1983): Alltagsinterpretation und soziologische Rekonstruktion. Op
 <a id="6"></a> <!-- This is the anchor -->
 ## Typenbildung und Generalisierung
 
-Ralf Bohnsack (2020): Die Mehrdimensionalität der Typenbildung und ihre Aspekthaftigkeit. In: Jutta Ecarius / Burkhard Schäffer (2010) (Hrsg.): Typenbildung und Theoriegenerierung. Methoden und Methodologien qualitativer Bildungs- und Biographieforschung. Opladen & Farmington Hills: Barbara Budrich, 21-48.
+Ralf Bohnsack (2020): Die Mehrdimensionalität der Typenbildung und ihre Aspekthaftigkeit. In: Jutta Ecarius / Burkhard Schäffer (2010) (Hrsg.): Typenbildung und Theoriegenerierung. Methoden und Methodologien qualitativer Bildungs- und Biographieforschung. Opladen & Farmington Hills: Barbara Budrich, 21-48 (zuerst 2010)
 
 Ralf Bohnsack / Nora Hoffmann / Iris Nentwig-Gesemann (2018): Typenbildung und Dokumentarische Methode. In: Ralf Bohnsack / Nora Friederike Hoffmann / Iris Nentwig- Gesemann (Hrsg.): Typenbildung und Dokumentarische Methode. Forschungspraxis und methodologische Grundlagen. Opladen, Berlin, Toronto: Barbara Budrich, 9-50.
 
@@ -175,8 +175,7 @@ Ralf Bohnsack (2012): Orientierungsschemata, Orientierungsrahmen und Habitus. El
 
 Ralf Bohnsack (2006): Mannheims Wissenssoziologie als Methode. In: Dirk Tänzler / Hubert Knoblauch / Georg Soeffner (Hrsg.): Neue Perspektiven der Wissenssoziologie, Bd 8: Erfahrung – Wissen – Imagination. Schriften zur Wissenssoziologie. Konstanz: UVK, 271-291.
 
-Ralf Bohnsack (1998): Rekonstruktive Sozialforschung und der Grundbegriff des
-„Orientierungsmusters“. In: Dirk Siefkes / Peter Eulenhöfer / Heike Stach / Klaus Städtler (Hrsg.): Sozialgeschichte der Informatik – Kulturelle Praktiken und Orientierungen. Wiesbaden: Deutscher Universitätsverlag, 105-121.
+Ralf Bohnsack (1998): Rekonstruktive Sozialforschung und der Grundbegriff des „Orientierungsmusters“. In: Dirk Siefkes / Peter Eulenhöfer / Heike Stach / Klaus Städtler (Hrsg.): Sozialgeschichte der Informatik – Kulturelle Praktiken und Orientierungen. Wiesbaden: Deutscher Universitätsverlag, 105-121.
 
 Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich.
 
@@ -207,13 +206,17 @@ Ralf Bohnsack (1998): Milieu als konjunktiver Erfahrungsraum. Eine dynamische Ko
 <a id="10"></a> <!-- This is the anchor -->
 ## Professionalisierungsforschung
 
-Ralf Bohnsack (2022): Metatheoretische Grundlagen der praxeologischwissenssoziologischen Professionsforschung. In: Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (Hrsg.): Praxeologisch-wissenssoziologische Professionsforschung. Perspektiven aus Früh- und Schulpädagogik, Fachdidaktik und Sozialer Arbeit. Bad Heilbrunn: Klinkhardt.
+Ralf Bohnsack (2024): Konstituierende Rahmung und praktisches Erkennen und Reflektieren in der organisationalen Praxis. In: Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (Hrsg.): Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen: Barbara Budrich, 7-63.
 
-Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (2022): Praxeologisch wissenssoziologische Professionsforschung. Rahmung und Erträge einer feldübergreifenden Perspektive. In: Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (Hrsg.): Praxeologisch-wissenssoziologische Professionsforschung. Perspektiven aus Früh- und Schulpädagogik, Fachdidaktik und Sozialer Arbeit. Bad Heilbrunn: Klinkhardt.
+Ralf Bohnsack (2023): Zur metatheoretischen und methodologischen Rahmung Dokumentarischer Schulforschung. In: Jan-Hendrik Hinzke / Tobias Bauer, Alexandra Damm / Marlene Kowalski, Marlene / Dominique Matthes (Hrsg.): Dokumentarische Schulforschung. Schwerpunkt: Schulentwicklung – Schulkultur – Schule als Organisation. Bad Heilbrunn: Klinkhardt, 106-127.
+
+Ralf Bohnsack (2022): Metatheoretische Grundlagen der praxeologisch-wissenssoziologischen Professionsforschung. In: Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (Hrsg.): Praxeologisch-wissenssoziologische Professionsforschung. Perspektiven aus Früh- und Schulpädagogik, Fachdidaktik und Sozialer Arbeit. Bad Heilbrunn: Klinkhardt, 31-55
+
+Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (2022): Praxeologisch wissenssoziologische Professionsforschung. Rahmung und Erträge einer feldübergreifenden Perspektive. In: Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (Hrsg.): Praxeologisch-wissenssoziologische Professionsforschung. Perspektiven aus Früh- und Schulpädagogik, Fachdidaktik und Sozialer Arbeit. Bad Heilbrunn: Klinkhardt, 13-30
 
 Ralf Bohnsack (2020): Professionalisierung in praxeologischer Perspektive. Zur Eigenlogik der Praxis in Lehramt, Sozialer Arbeit und Frühpädagogik. Opladen u. Toronto: UTB / Barbara Budrich.
 
-Ralf Bohnsack, Sonja Kubisch, Claudia Streblow-Poser (2018): Soziale Arbeit und Dokumentarische Methode. In: Ralf Bohnsack / Sonja Kubisch / Claudia Streblow-Poser (Hrsg.): Soziale Arbeit und Dokumentarische Methode. Opladen u. Toronto: Barbara Budrich, 7-38.
+Ralf Bohnsack / Sonja Kubisch / Claudia Streblow-Poser (2018): Soziale Arbeit und Dokumentarische Methode. In: Ralf Bohnsack / Sonja Kubisch / Claudia Streblow-Poser (Hrsg.): Soziale Arbeit und Dokumentarische Methode. Opladen u. Toronto: Barbara Budrich, 7-38.
 
 <a id="11"></a> <!-- This is the anchor -->
 ## Erkenntnistheorie und Dokumentarische Methode
@@ -226,9 +229,10 @@ Ralf Bohnsack (2020): Professionalisierung in praxeologischer Perspektive. Zur E
 – Kapitel 12: Die Eliminierung der Praxis in der konventionellen Erkenntnistheorie
 
 Ralf Bohnsack (2017): Praxeologische Wissenssoziologie. Opladen u. Toronto: UTB/ Barbara Budrich.
-– Kapitel 10: Zur ‚Praxisrelevanz‘ der Prraxeologischen Wisssendssoziologie
+– Kapitel 10: Zur ‚Praxisrelevanz‘ der Praxeologischen Wissenssoziologie
 
 Ralf Bohnsack (2005): Standards nicht-standardisierter Forschung in den Erziehungs- und Sozialwissenschaften. In: ZfE: Zeitschrift für Erziehungswissenschaft, 8. Jg., Beiheft Nr. 4 (Standards und Standardisierungen in der Erziehungswissenschaft), 63-81. Hrsg. von Ingrid Gogolin / Heinz-Hermann Krüger / Dieter Lenzen / Thomas Rauschenbach. Wiesbaden: VS-Verlag.
+
 
 <a id="12"></a> <!-- This is the anchor -->
 ## Forschung zu Jugend und Jugendkriminalität
@@ -261,11 +265,11 @@ Ralf Bohnsack (2020): Generation in praxeologischer Perspektive: performatives G
 Ralf Bohnsack (2017): Praxeologische Wissenssoziologie. Opladen u. Toronto: UTB/ Barbara Budrich.
 – Kapitel 7: Gesellschaftliche Erfahrungsräume: Milieu und Generation
 
-(2014): Der Milieubegriff der Praxeologischen Wissenssoziologie. In: Peter Isenböck / Linda Nell / Joachim Renn (Hrsg.): Zeitschrift für Theoretische Soziologie (ZTS): Sonderband: Form des Milieus. Zum Verhältnis von gesellschaftlicher Differenzierung und Form der Vergemeinschaftung, 16-45.
+Ralf Bohnsack (2014): Der Milieubegriff der Praxeologischen Wissenssoziologie. In: Peter Isenböck / Linda Nell / Joachim Renn (Hrsg.): Zeitschrift für Theoretische Soziologie (ZTS): Sonderband: Form des Milieus. Zum Verhältnis von gesellschaftlicher Differenzierung und Form der Vergemeinschaftung, 16-45.
 
 Ralf Bohnsack, Aglaja Przyborski (2012): Zur Vermögenskultur von Familienunternehmen und ihren generations- und milieuspezifischen Differenzierungen. Erste empirische Rekonstruktionen. In: Thomas Druyen (Hrsg.): Verantwortung und Bewährung. Eine vermögenskulturelle Studie. Wiesbaden: VS-Verlag, 1-121.
 
-Ralf Bohnsack, Burkhard Schäffer (2002): Generation als konjunktiver Erfahrungsraum. Eine empirische Analyse generationsspezifischer Medienpraxiskulturen. In: Günter Burkart / Jürgen Wolf (Hrsg.): Lebenszeiten. Erkundungen zur Soziologie der Generationen (Martin Kohli zum 60. Geburtstag). Opladen: Leske u. Budrich, 249-273.
+Ralf Bohnsack / Burkhard Schäffer (2002): Generation als konjunktiver Erfahrungsraum. Eine empirische Analyse generationsspezifischer Medienpraxiskulturen. In: Günter Burkart / Jürgen Wolf (Hrsg.): Lebenszeiten. Erkundungen zur Soziologie der Generationen (Martin Kohli zum 60. Geburtstag). Opladen: Leske u. Budrich, 249-273.
 
 Ralf Bohnsack (1998): Milieu als konjunktiver Erfahrungsraum. Eine dynamische Konzeption von Milieu in empirischer Analyse. In: Ulf Matthiesen (Hrsg.): Die Räume der Milieus. Neue Tendenzen in der sozial- und raumwissenschaftlichen Milieuforschung in der Stadt- und Raumplanung. Berlin: Edition Sigma, 119-131.
 
@@ -277,7 +281,7 @@ Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Grupp
 Ralf Bohnsack (2020): Qualitative Evaluationsforschung und dokumentarische Methode. In: Ralf Bohnsack / Iris Nentwig-Gesemann (Hrsg.): Dokumentarische Evaluationsforschung. Theoretische Grundlagen und Beispiele aus der Praxis. Opladen u. Farmington Hills. Barbara Budrich, 27-66.
 
 Ralf Bohnsack (2017): Praxeologische Wissenssoziologie. Opladen u. Toronto: UTB / Barbara Budrich.
-– Kapitel 10: Zur ›Praxisrelevanz‹ der Praxeologischen Wissenssoziologie
+– Kapitel 10: Zur ‚Praxisrelevanz‘ der Praxeologischen Wissenssoziologie
 
 Ralf Bohnsack (2016): Responsivität, Evaluation und Moderation. Perspektiven und Kontroversen des Diskurses. In: Birgit Althans / Juliane Engel (Hrsg.): Responsive Organisationsforschung. Methodologien und institutionelle Rahmungen von Übergängen. Wiesbaden: Springer VS, 137-160.
 
