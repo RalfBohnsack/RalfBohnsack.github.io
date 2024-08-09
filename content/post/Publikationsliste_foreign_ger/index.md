@@ -33,8 +33,8 @@ authors:
 
 ---
 
-#PH
 [Publikationsliste (allgemein)](/post/publikationsliste_ger/)
+
 [Publikationsliste nach Forschungsschwerpunkten](/post/publikationsliste_forschungsschwerpunkte_ger/)
 
 1. <a href="#eng">English</a>
