@@ -33,8 +33,6 @@ authors:
 
 ---
 
-# Featured image
-
 [Publikationsliste (allgemein)](/post/publikationsliste_ger/)
 [Fremdsprachige Publikationen](/post/publikationsliste_foreign_ger/)
 
