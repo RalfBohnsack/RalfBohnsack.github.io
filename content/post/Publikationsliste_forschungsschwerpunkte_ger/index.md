@@ -34,7 +34,6 @@ authors:
 ---
 
 [Publikationsliste (allgemein)](/post/publikationsliste_ger/)
-
 [Fremdsprachige Publikationen](/post/publikationsliste_foreign_ger/)
 
 1. <a href="#1">Dokumentarische Methode - allgemein</a>
