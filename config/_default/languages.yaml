@@ -2,10 +2,44 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
-en:
-  languageName: "German"
+# Default language configuration
+defaultContentLanguage: "de"
+
+# German Language Configuration (Default)
+de:
+  languageName: "Deutsch"
   weight: 1
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Forschungsschwerpunkte
+        url: '/post/forschungsschwerpunkte_ger/'
+        weight: 30
+      - name: Curriculum Vitae
+        url: '/post/curriculum-vitae_ger/'
+        weight: 40
+      - name: Publikationen
+        url: '/post/publikationsliste_ger/'
+        weight: 50
+      - name: Publikationsliste
+        parent: Publikationen
+        url: '/post/publikationsliste_ger/'
+        weight: 51
+      - name: Publikationsliste nach Forschungsschwerpunkten
+        parent: Publikationen
+        url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
+        weight: 52
+      - name: Fremdsprachige Publikationen
+        parent: Publikationen
+        url: '/post/publikationsliste_foreign_ger/'
+        weight: 53
+
+# English Language Configuration
+en:
+  languageName: "English"
+  weight: 2
   menu:
     main:
       - name: Home
@@ -33,35 +67,6 @@ en:
         url: '/post/foreign_publications_en/'
         weight: 53
 
-de:
-  languageName: "English"
-  weight: 2
-  menu:
-    main:
-      - name: Home
-        url: '#about'
-        weight: 10
-      - name: Forschungsschwerpunkte
-        url: '/post/forschungsschwerpunkte_ger/'
-        weight: 30
-      - name: Curriculum Vitae
-        url: '/post/curriculum-vitae_ger/'
-        weight: 40
-      - name: Publikationen
-        url: '/post/publikationsliste_ger/'
-        weight: 50
-      - name: Publikationsliste
-        parent: Publikationen
-        url: '/post/publikationsliste_ger/'
-        weight: 51
-      - name: Publikationsliste nach Forschungsschwerpunkten
-        parent: Publikationen
-        url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
-        weight: 52
-      - name: Fremdsprachige Publikationen
-        parent: Publikationen
-        url: '/post/publikationsliste_foreign_ger/'
-        weight: 53
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
