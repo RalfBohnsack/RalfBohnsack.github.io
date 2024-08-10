@@ -8,25 +8,25 @@ main:
     url: '#about'
     weight: 10
   - name: Forschungsschwerpunkte
-    url: '/post/de/post/forschungsschwerpunkte_ger/'
+    url: '/post/forschungsschwerpunkte_ger/'
     weight: 30
   - name: Curriculum Vitae
-    url: '/post/de/post/curriculum-vitae_ger/'
+    url: '/post/curriculum-vitae_ger/'
     weight: 40
   - name: Publikationen
-    url: '/post/de/post/publikationsliste_ger/'
+    url: '/post/publikationsliste_ger/'
     weight: 50
   - name: Publikationsliste
     parent: Publikationen
-    url: '/post/de/post/publikationsliste_ger/'
+    url: '/post/publikationsliste_ger/'
     weight: 51
   - name: Publikationsliste nach Forschungsschwerpunkten
     parent: Publikationen
-    url: '/post/de/post/publikationsliste_forschungsschwerpunkte_ger/'
+    url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
     weight: 52
   - name: Fremdsprachige Publikationen
     parent: Publikationen
-    url: '/post/de/post/publikationsliste_foreign_ger/'
+    url: '/post/publikationsliste_foreign_ger/'
     weight: 53
 
 
