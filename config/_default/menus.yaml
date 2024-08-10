@@ -4,59 +4,31 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # German Menu
-  de:
-    - name: Home
-      url: '#about'
-      weight: 10
-    - name: Forschungsschwerpunkte
-      url: '/post/forschungsschwerpunkte_ger/'
-      weight: 30
-    - name: Curriculum Vitae
-      url: '/post/curriculum-vitae_ger/'
-      weight: 40
-    - name: Publikationen
-      url: '/post/publikationsliste_ger/'
-      weight: 50
-    - name: Publikationsliste
-      parent: Publikationen
-      url: '/post/publikationsliste_ger/'
-      weight: 51
-    - name: Publikationsliste nach Forschungsschwerpunkten
-      parent: Publikationen
-      url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
-      weight: 52
-    - name: Fremdsprachige Publikationen
-      parent: Publikationen
-      url: '/post/publikationsliste_foreign_ger/'
-      weight: 53
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Forschungsschwerpunkte
+    url: '/post/forschungsschwerpunkte_ger/'
+    weight: 30
+  - name: Curriculum Vitae
+    url: '/post/curriculum-vitae_ger/'
+    weight: 40
+  - name: Publikationen
+    url: '/post/publikationsliste_ger/'
+    weight: 50
+  - name: Publikationsliste
+    parent: Publikationen
+    url: '/post/publikationsliste_ger/'
+    weight: 51
+  - name: Publikationsliste nach Forschungsschwerpunkten
+    parent: Publikationen
+    url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
+    weight: 52
+  - name: Fremdsprachige Publikationen
+    parent: Publikationen
+    url: '/post/publikationsliste_foreign_ger/'
+    weight: 53
 
-  # English Menu
-  en:
-    - name: Home
-      url: '#about'
-      weight: 10
-    - name: Research Focus
-      url: '/post/research_focus_en/'
-      weight: 30
-    - name: Curriculum Vitae
-      url: '/post/curriculum-vitae_en/'
-      weight: 40
-    - name: Publications
-      url: '/post/publications_list_en/'
-      weight: 50
-    - name: Publications List
-      parent: Publications
-      url: '/post/publications_list_en/'
-      weight: 51
-    - name: Publications by Research Focus
-      parent: Publications
-      url: '/post/publications_by_focus_en/'
-      weight: 52
-    - name: Foreign Language Publications
-      parent: Publications
-      url: '/post/foreign_publications_en/'
-      weight: 53
 
 
 # Link to a PDF of your resume/CV from the menu.
