@@ -1,6 +1,7 @@
 ---
 title: Publikationsliste nach Forschungsschwerpunkten
 subtitle: Publikationsliste nach Forschungsschwerpunkten
+lang: "de"
 
 # Summary for listings and search engines
 summary: Publikationsliste nach Forschungsschwerpunkten

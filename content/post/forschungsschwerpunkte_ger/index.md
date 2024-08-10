@@ -1,6 +1,7 @@
 ---
 title: Forschungsschwerpunkte
 subtitle: Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.
+lang: "de"
 
 # Summary for listings and search engines
 summary: Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.

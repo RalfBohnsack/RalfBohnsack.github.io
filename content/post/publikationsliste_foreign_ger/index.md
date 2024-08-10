@@ -1,6 +1,7 @@
 ---
 title: Fremdsprachige Publikationen
 subtitle: Fremdsprachige Publikationen
+lang: "de"
 
 # Summary for listings and search engines
 summary: Fremdsprachige Publikationen

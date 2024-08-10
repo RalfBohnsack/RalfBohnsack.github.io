@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 subtitle: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
+lang: "en"
 
 # Summary for listings and search engines
 summary: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.

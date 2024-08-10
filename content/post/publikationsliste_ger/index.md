@@ -1,6 +1,7 @@
 ---
 title: Publikationsliste
 subtitle: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+lang: "de"
 
 # Summary for listings and search engines
 summary: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
