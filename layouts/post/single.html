@@ -5,9 +5,7 @@
   <div class="container">
     <div class="post">
       <h1>{{ .Title }}</h1>
-      {{ if .Date }}
-        <p>{{ .Date.Format "Jan 2, 2006" }}</p>
-      {{ end }}
+      <!-- Removed the date display block -->
       <div class="content">
         {{ .Content }}
       </div>
