@@ -33,8 +33,8 @@ authors:
 
 ---
 
-[Publikationsliste (allgemein)](/en/post/publications_list_en/)  
-[Publikationsliste nach Forschungsschwerpunkten](/en/post/publications_by_focus_en/)
+[Publications (general)](/en/post/publications_list_en/)  
+[Publications by Research Focus](/en/post/publications_by_focus_en/)
 
 1. <a href="#eng">English</a>
 2. <a href="#prt">Portuguese</a>
