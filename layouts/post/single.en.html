@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <head>
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <div class="container">
+    <div class="post">
+      <h1>{{ .Title }}</h1>
+      <!-- Removed the date display block for English posts -->
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+{{ end }}
