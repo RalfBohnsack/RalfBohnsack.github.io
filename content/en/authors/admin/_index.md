@@ -114,7 +114,7 @@ On this website, I wish to provide insight into my academic work, as well as my 
 {style="text-align: justify;"}
 
 Hier finden Sie:<br>
-- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte/): Detailed insights into my methodical-methodological standpoint, my theoretical specialization, and the empirical subject areas of my research.
-- [**Curriculum Vitae**](/post/curriculum-vitae_ger/): The stages of my academic training, the positions and offices I held throughout my career as well as their links to my professional work.
-- [**Publikationsliste**](/post/publikationsliste/): A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
+- [**Research Focus**](/en/post/research_focus_en/): Detailed insights into my methodical-methodological standpoint, my theoretical specialization, and the empirical subject areas of my research.
+- [**Curriculum Vitae**](/en/post/curriculum-vitae_en/): The stages of my academic training, the positions and offices I held throughout my career as well as their links to my professional work.
+- [**Publications**](/en/post/publications_list_en//): A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
 {style="text-align: justify;"}
