@@ -1,67 +1,80 @@
-# Root-level configuration
-defaultContentLanguage: "de"
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Languages Configuration
-languages:
-  de:
-    languageName: "Deutsch"
-    weight: 1
-    menu:
-      main:
-        - name: Home
-          url: '#about'
-          weight: 10
-        - name: Forschungsschwerpunkte
-          url: '/post/forschungsschwerpunkte_ger/'
-          weight: 30
-        - name: Curriculum Vitae
-          url: '/post/curriculum-vitae_ger/'
-          weight: 40
-        - name: Publikationen
-          url: '/post/publikationsliste_ger/'
-          weight: 50
-        - name: Publikationsliste
-          parent: Publikationen
-          url: '/post/publikationsliste_ger/'
-          weight: 51
-        - name: Publikationsliste nach Forschungsschwerpunkten
-          parent: Publikationen
-          url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
-          weight: 52
-        - name: Fremdsprachige Publikationen
-          parent: Publikationen
-          url: '/post/publikationsliste_foreign_ger/'
-          weight: 53
+# Default language
+en:
+  languageName: "English"
+  weight: 1
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Research Focus
+        url: '/post/research_focus_en/'
+        weight: 30
+      - name: Curriculum Vitae
+        url: '/post/curriculum-vitae_en/'
+        weight: 40
+      - name: Publications
+        url: '/post/publications_list_en/'
+        weight: 50
+      - name: Publications List
+        parent: Publications
+        url: '/post/publications_list_en/'
+        weight: 51
+      - name: Publications by Research Focus
+        parent: Publications
+        url: '/post/publications_by_focus_en/'
+        weight: 52
+      - name: Foreign Language Publications
+        parent: Publications
+        url: '/post/foreign_publications_en/'
+        weight: 53
 
-  en:
-    languageName: "English"
-    weight: 2
-    menu:
-      main:
-        - name: Home
-          url: '#about'
-          weight: 10
-        - name: Research Focus
-          url: '/post/research_focus_en/'
-          weight: 30
-        - name: Curriculum Vitae
-          url: '/post/curriculum-vitae_en/'
-          weight: 40
-        - name: Publications
-          url: '/post/publications_list_en/'
-          weight: 50
-        - name: Publications List
-          parent: Publications
-          url: '/post/publications_list_en/'
-          weight: 51
-        - name: Publications by Research Focus
-          parent: Publications
-          url: '/post/publications_by_focus_en/'
-          weight: 52
-        - name: Foreign Language Publications
-          parent: Publications
-          url: '/post/foreign_publications_en/'
-          weight: 53
+de:
+  languageName: "English"
+  weight: 2
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Forschungsschwerpunkte
+        url: '/post/forschungsschwerpunkte_ger/'
+        weight: 30
+      - name: Curriculum Vitae
+        url: '/post/curriculum-vitae_ger/'
+        weight: 40
+      - name: Publikationen
+        url: '/post/publikationsliste_ger/'
+        weight: 50
+      - name: Publikationsliste
+        parent: Publikationen
+        url: '/post/publikationsliste_ger/'
+        weight: 51
+      - name: Publikationsliste nach Forschungsschwerpunkten
+        parent: Publikationen
+        url: '/post/publikationsliste_forschungsschwerpunkte_ger/'
+        weight: 52
+      - name: Fremdsprachige Publikationen
+        parent: Publikationen
+        url: '/post/publikationsliste_foreign_ger/'
+        weight: 53
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
