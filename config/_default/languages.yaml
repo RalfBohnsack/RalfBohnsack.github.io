@@ -5,6 +5,7 @@
 # Default language
 en:
   languageName: "English"
+  contentDir: content/en
   weight: 1
   menu:
     main:
@@ -35,6 +36,7 @@ en:
 
 de:
   languageName: "German"
+  contentDir: content
   weight: 2
   menu:
     main:
