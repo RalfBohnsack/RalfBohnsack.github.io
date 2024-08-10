@@ -34,7 +34,7 @@ authors:
 
 ---
 
-Meine Publikationen von heute bis 1973 finden sich auf dieser Seite als umfassende Gesamtliste. Ebenso finden sich sortierte Listen hinsichtlich meiner Forschungsschwerpunkte und meiner fremdsprachigen Tite
+Meine Publikationen von heute bis 1973 finden sich auf dieser Seite als umfassende Gesamtliste. Ebenso finden sich sortierte Listen hinsichtlich meiner Forschungsschwerpunkte und meiner fremdsprachigen Titel.
 
 1. <a href="#monografien">Monografien</a>
 2. <a href="#aufsatze">Aufsätze</a>

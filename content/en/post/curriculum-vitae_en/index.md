@@ -1,9 +1,9 @@
 ---
 title: Curriculum Vitae
-subtitle: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
+subtitle: The stages of my academic training, the positions and offices I held throughout my career as well as their links to my professional work.
 
 # Summary for listings and search engines
-summary: Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
+summary: The stages of my academic training, the positions and offices I held throughout my career as well as their links to my professional work.
 
 # Link this post with a project
 projects: []
@@ -32,65 +32,66 @@ authors:
   - admin
 ---
 
+## Formal Stages of Education and Work
 
-Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen meiner Ausbildung sowie den jeweiligen beruflichen Positionen an den Universitäten und meinen wissenschaftlichen Arbeiten veranschaulichen.
-{style="text-align: justify;"}
+With this overview, I wish to illustrate the connection between the stages of my education, my scientific work, and the positions I held at the Universities of Muenster and Bielefeld, the University of Erlangen-Nuremberg, as well as the Free University of Berlin.
 
-
-## An den Universitäten Münster und Bielefeld | 1967-1977
-
-**1967-1972**
-
-Nach meinem Abitur habe ich zunächst an der Rechts- und Staatswissenschaftlichen Fakultät der Universität Münster Soziologie studiert. Im Zuge der Verlegung des soziologischen Studiengangs an die neugegründete Fakultät für Soziologie der Universität Bielefeld habe ich mein Studium dort fortgesetzt (mit den Schwerpunkten: Allgemeine Soziologie – Sozialarbeit – Sozialpsychologie – Planungs- und Entscheidungstheorie).
-
-Meine Diplomarbeit (Gutachter: Joachim Matthes und Günther Albrecht) trägt den voluminösen Titel »Versuch einer Verknüpfung kriminalsoziologischer Theorien der Subkultur, der Anomie, des Definitionsansatzes unter dem Aspekt der Jugend mit Hilfe allgemeiner soziologischer Theorie unter Berücksichtigung von Theorien der neueren Wissenssoziologie«. Veröffentlicht wurde sie unter dem Titel »Handlungskompetenz und Jugendkriminalität«
+## At the Universities of Muenster and Bielefeld | 1967-1977
 
 **1967-1972**
 
-Nach meinem Diplom hatte ich eine Stelle als wissenschaftlicher Mitarbeiter am ZiF (Zentrum für interdisziplinäre Forschung der Universität Bielefeld) mit dem Aufgabenbereich der Vorbereitung eines internationalen Kongresses zur Sprachsoziologie. An diesem Kongress waren u.a. Erving Goffman, Harold Garfinkel und Harvey Sacks beteiligt.
+After graduating from high school, I started studying sociology at the Faculty of Law and Political Science at the University of Muenster. When the sociology programme was transferred to the newly founded Faculty of Sociology at the University of Bielefeld, I continued my studies there, specializing in general sociology, social work, social psychology, as well as planning and decision-making theory.
+My diploma thesis is titled »Attempts to Link Criminal-Sociological Theories of Subculture, Anomie, the Labeling Approach under Consideration of Youth with the Support of General Sociological Theory, taking Into Account Theories of the Modern Sociology of Knowledge«, and was reviewed by Joachim Matthes and Günther Albrecht. It was published under the title »Action Competence and Juvenile Delinquency« [Handlungskompetenz und Jugendkriminalität].
+
+**1967-1972**
+
+After my diploma, I was occupied by the Centre for Interdisciplinary Research at the University of Bielefeld as a research assistant with the task of preparing an international congress on the sociology of language. Erving Goffman, Harold Garfinkel, and Harvey Sacks, among others, attended this congress.
 
 **1974-1977**
 
-Im Anschluss war ich nach einem kurzfristigen Stipendium für Postgraduierte als wissenschaftlicher Mitarbeiter in einem vom Bundesforschungsministerium für Forschung und Technologie geförderten Projekt zu „Modelleinrichtungen in der Sozialpolitik“ tätig. Untersucht wurden neun Einrichtungen der Jugend- und Drogenberatung in Nordrhein-Westfallen und Baden-Württemberg. Deren Mitarbeiter*innen konnten wir (damals ein Durchbruch im Bereich qualitativer Forschung) davon überzeugen, uns ihre elektronisch aufgezeichneten Beratungsgespräche zur Auswertung zu überlassen.
+Subsequent to receiving a scholarship for postgraduates, I worked as a research assistant in a project funded by the Federal Ministry of Research and Technology on model institutions in social policy. In the scope of this project, nine youth and drug counselling facilities in North Rhine-Westphalia and Baden-Württemberg (Germany) were examined. As a research-practical novelty at this time, we were able to convince the employees of these institutions to let us evaluate their recorded consultation sessions.
 
-## An der Universität Erlangen-Nürnberg | 1977-1990
+## At the University of Erlangen–Nuremberg | 1977-1990
 
 **1977-1981**
 
-Nachdem Joachim Matthes, der Betreuer meiner Diplomarbeit, einen Ruf an das Institut für Soziologie der Universität Erlangen-Nürnberg angenommen hatte, erhielt ich dort das Angebot einer Stelle als wissenschaftlicher Assistent.
+After Joachim Matthes, the supervisor of my diploma thesis, was offered a professorship at the Institute for Sociology at the University of Erlangen-Nuremberg, I was offered a position as a research assistant.
 
-Für meine in der Zeit in Erlangen-Nürnberg entstehende Dissertation mit dem Titel »Alltagsinterpretation und soziologische Rekonstruktion« stellte die empirische Auswertung und Typenbildung von 44 Beratungsgesprächen aus den 9 Einrichtungen der Jugend- und Drogenberatung den zentralen Teil dar. Methodologisch-methodisch handelte es sich um eine Vorform der Dokumentarischen Methode. Was den grundlagentheoretischen Rahmen anbetrifft, so habe ich mich um eine Integration von Ethnomethodologie und Luhmann`scher Systemtheorie bemüht. Da ich noch nach Bielefelder Promotionsordnung promovieren wollte, habe ich bei Luhmann um eine Zweitbegutachtung nachgefragt. Dieses Gutachten war wesentlich durch eine massive – wenn auch interessante – philosophisch-erkenntnistheoretische Kritik an meiner (radikalen) rekonstruktiven Analyseeinstellung geprägt.
+During my time at the University of Erlangen-Nuremberg, I prepared my dissertation with the title »Common-Sense Interpretation and Sociological  Reconstruction« [Alltagsinterpretation und soziologische Rekonstruktion], a project for which I conducted an empirical evaluation and corresponding type formation of 44 counselling sessions from the previously mentioned nine youth and drug counselling centres. For the theoretical framework, I have endeavoured to integrate aspects of ethnomethodology and Luhmann’s systems theory. As I still intended to graduate according to the doctoral regulations of the University of Bielefeld, I asked Luhmann as a second reader for an additional review of my dissertation. This report was characterized by a massive – albeit interesting – philosophical-epistemological criticism of my (radical) reconstructive analytical stance.
 
 **1981-1990**
 
-Nach meiner Promotion im Jahre 1981 führte mein Interesse an der Weiterentwicklung der Gesprächsanalyse zu einer Auseinandersetzung mit dem Gruppendiskussionsverfahren. Dies nicht zuletzt deshalb, weil Werner Mangold, neben Joachim Matthes der andere Lehrstuhlinhaber am Institut für Soziologie, damals als der wegweisende Vertreter dieser Methode galt. Seine Begeisterung für die Neuinterpretation und methodologische Aktualisierung seiner (von Theodor W. Adorno und Max Horkheimer in Frankfurt betreuten) Dissertation führte zu dem Plan, die Methode weiterzuentwickeln. Mit Werner Mangold als einflussreichem DFG-Gutachter gelang die Finanzierung eines (für die damaligen Verhältnisse) radikal qualitativen Antrags zur Jugendforschung. Gegenstand waren die unauffälligen Jugendlichen aus einer nordbayerischen Kleinstadt und umliegenden Dörfern.
+After my doctorate in 1981, my increased interest in the further development of discourse analysis led to a closer examination of group discussion as a research method. This was not least due to Werner Mangold, who was considered the pioneering representative of this method at the time. His enthusiasm for the reinterpretation and methodological renewal of his dissertation (supervised by Theodor W. Adorno and Max Horkheimer) inspired the plan to further develop the method. With Werner Mangold as an influential reviewer of the German Research Foundation, a (by this time) radical qualitative approach to studying the experience of youth was funded. The subjects of this project were the inconspicuous young people from a small town in northern Bavaria and the surrounding villages.
 
-Hieraus ist meine Habilitationsschrift entstanden (vgl. Bohnsack 1989) mit dem Titel: »Kollektive Lebensorientierungen in Gruppen Jugendlicher. Exemplarische Wege zur empirischen Analyse des Zusammenhangs von Adoleszenzentwicklung, Milieu, Geschlecht und Generation« (Gutachter: Werner Mangold und Joachim Matthes). Mit der Habilitation erhielt ich die Lehrbefähigung (Venia Legendi) in „Allgemeiner Soziologie“.
+This endeavour resulted in my habilitation thesis with the final title »Generation, Milieu and Gender. Results from Group Discussions with Young People« [Generation, Milieu und Geschlecht. Ergebnisse aus Gruppendiskussionen mit Jugendlichen], which was reviewed by Werner Mangold and Joachim Matthes. With my habilitation, I received the teaching qualification (Venia Legendi) in general sociology.
 
-
-## An den Freien Universität Berlin | 1990-2013
+## At the Free University of Berlin | 1990-2013
 
 **1990-2001**
 
-1990 erhielt ich den Ruf auf eine Professur für „Qualitative Methoden in den Sozialwissenschaften“ an der Freien Universität Berlin, welche im Rahmen eines neu etablierten „Zusatzstudiums“ gleichen Namens eingerichtet worden war. Innovativ war nicht nur die Einrichtung eines derartigen Graduiertenstudiengangs, sondern auch dessen transdisziplinäre Ausrichtung. Als Verantwortlicher für dessen Organisation war ich dann zugleich Vorsitzender einer gemeinsamen Kommission verschiedener Fachbereiche der FU. Beteiligt waren Lehrende aus der Erziehungswissenschaft, Soziologie, Psychologie, Ethnologie, Politologie, Kommunikationswissenschaft und vom Max-Planck-Institut für Bildungsforschung.
+In 1990 I was offered the Professorship for Qualitative Methods in the Social Sciences at the Free University of Berlin. The professorship was established alongside a new graduate programme of the same name. It was not only the creation of such a programme that was regarded as highly innovative but also its transdisciplinary focus. Furthermore, I served as founder and chairman of a joint commission constituted by various departments at the Free University of Berlin. Lecturers from educational science, sociology, psychology, ethnology, political science, communication science, and the Max Planck Institute for Human Development were involved.
 
-Im Jahr 1991 ist die erste Auflage von „Rekonstruktive Sozialforschung“ erschienen, meiner wohl bekanntesten Arbeit, die 2021 in der 10. Auflage publiziert wurde.
-In den 1990er Jahren wurden wesentliche methodische und metatheoretische Grundlagen der Dokumentarischen Methode im Zusammenhang mit zwei DFG-Projekten im Verbindungsbereich von Jugendforschung und Kriminalsoziologie gelegt. Gegenstand der Forschung (direkt nach der Wende) waren Hooligans und Rockbands im Ostteil der Stadt Berlin und im Anschluss daran Jugendliche türkischer Herkunft aus dem Westteil.
+The first edition of »Reconstructive Social Research« [Rekonstruktive Sozialforschung], probably my best-known work, was published in 1991. The tenth edition was released in 2021.
 
-Im Jahr 1998 wurde auf Initiative von Winfried Marotzki und Heinz-Hermann Krüger das „Zentrum für qualitative Bildungs-, Beratungs- und Sozialforschung“ (ZBBS) gegründet, zu dessen Vorstand ich damals gehörte, sowie die gleichnamige „Zeitschrift für qualitative Bildungs-, Beratungs- und Sozialforschung“, deren Herausgeberschaft ich von Anfang angehörte und die heute den Titel „Zeitschrift für Qualitative Forschung“ trägt.
+In the 1990s, I established the methodological and meta-theoretical foundations of the documentary method in connection with two projects in the converging field of youth research and criminal sociology, both funded by the German Research Foundation. The subjects of these projects were hooligans and rock bands in the eastern part of Berlin, as well as young people of Turkish origin from the western part of the city (immediately after the German reunification).
 
-Das ZBBS (heute ZSM) bildete die Plattform für den heute noch stattfindenden bundesweiten Magdeburger Methodenworkshop. In dessen Rahmen habe ich von 1998 bis 2011 eine Forschungswerkstatt zur Dokumentarischen Methode geleitet.
+Starting in 1998, I served as a board member for the newly founded Zentrum für qualitative Bildungs-, Beratungs- und Sozialforschung, ZBBS (Centre for Qualitative Educational, Counseling and Social Research), which was initiated by Heinz-Hermann Krüger and Winfried Marotzki. Simultaneously, I also belonged since its inception to the editorial board of the scientific journal of the same name, the “Zeitschrift für qualitative Bildungs-, Beratungs- und Sozialforschung“. The contemporary iteration of this journal goes by the title “Zeitschrift für Qualitative Forschung” [Journal for Qualitative Research].
+
+The Centre for Qualitative Educational, Counseling and Social Research formed the platform for the transregional Magdeburg Method Workshop [Bundesweiter Magdeburger Methodenworkshop], which is still an ongoing institution today. From 1998 to 2011, I led the associated research workshop on the documentary method.
 
 **2001-2013**
 
-Im Zusammenhang mit dem Aufbau der Humboldt-Universität Berlin nach der Wende wurden Kapazitäten von den bisherigen Westberliner Universitäten abgezogen. Die Kolleg*innen der FU gerieten hinsichtlich ihres Lehrdeputats unter Druck und mussten sich aus dem Zusatzstudium zurückziehen. Ich habe meine Lehrkapazitäten in den Fachbereich Erziehungswissenschaft und Psychologie verlagert und dort die Leitung des neu gegründeten Arbeitsbereichs „Qualitative Bildungsforschung“ übernommen.
+Alongside the establishment of the Humboldt University in Berlin after the German reunification, capacities were withdrawn from the universities in former West Berlin. These circumstances led to constraints for my colleagues at the Free University of Berlin, who consequently had to withdraw, due to their increased workload, from the graduate programme I supervised. I transferred my teaching capacities to the Department of Education and Psychology and took over the administration of the newly founded Division for Qualitative Research on Human Development.
 
-Neben meinem Lehrangebot im Rahmen des Diplom- und des Magisterstudiengangs Erziehungswissenschaft habe ich aus dem Zusatzstudium die „Forschungswerkstatt studentischer Projekte“ beibehalten, in der weiterhin auch graduierte Studierende aus dem gesamten Bereich der Sozialwissenschaften und auch darüber hinaus (Medizin, Rechtswissenschaften, Informatik, Theologie) betreut wurden. Mit der Jahrtausendwende entstand die ersten Veröffentlichungen zur dokumentarischen Bild- und auch Videointerpretation unter dem Titel »Die dokumentarische Methode in der Bild- und Fotointerpretation« und später die Monografie »Qualitative Bild- und Videointerpretation. Die dokumentarische Methode«.
+In addition to my courses as part of the diploma and magister programme in educational science, I have retained the “research workshop for student projects” in which graduate students of social sciences and beyond (medicine, law, computer science, theology) were supervised. At the turn of the millennium, I released the first publications on the documentary picture and video interpretation under the title »The Documentary Method in the Interpretation of Pictures and Photographs« [Die dokumentarische Methode in der Bild- und Fotointerpretation] and later the monograph »Qualitative Picture and Video Interpretation. The Documentary Method« [Qualitative Bild- und Videointerpretation. Die dokumentarische Methode].
 
-Im Jahre 2005 wurde das ces (centrum für qualitative evaluations- und sozialforschung) gegründet, zunächst mit mir als erstem Vorsitzenden. Im Jahr 2012 wurde ich für vier Jahre zum Fachgutachter der Deutschen Forschungsgemeinschaft (DFG) im Fachkollegium 109: Erziehungswissenschaft gewählt.
+In 2005, the ces – centrum für qualitative evaluations- und sozialforschung [Centre for Qualitative Evaluation and Social Research] was founded, initially with me as the first chairman.
+
+In 2012, I was elected for four years as an expert reviewer for the German Research Foundation in Review Board 109: Educational Science.
 
 **ab 2013**
 
-Nach meiner Pensionierung im September 2013 habe ich auch weiterhin regelmäßig eine Forschungswerkstatt im Rahmen der methodischen Betreuung von Dissertationen und anderen Forschungsprojekten angeboten. In dieser Zeit habe ich mich darüber hinaus zum einen stärker der grundlagentheoretischen Seite meiner Forschung zugewandt, der Praxeologischen Wissenssoziologie. Im Zuge der fortschreitenden Klärung der theoretischen Grundbegriffe (Meta-Theorie) ist eine Monografie mit diesem Titel entstanden.
+After my retirement in September 2013, I continued to offer research workshops as part of the methodological supervision of dissertations and other research projects. During this time, I occupied myself more with the theoretical dimension of my research, the praxeological sociology of knowledge. In the course of this progressive clarification of the basic theoretical concepts (meta-theory), I released the corresponding monograph »Praxeological Sociology of Knowledge« [Praxeologische Wissenssoziologie].
 
-Zum anderen hat mich nicht zuletzt auch unter dem Einfluss der von mir betreuten Dissertationen der Komplex der Professionalisierung in “People Processing Organizations” (Schule, Soziale Arbeit, Frühpädagogik) beschäftigt. Es wurde zunehmend deutlich, dass die Praxeologische Wissenssoziologie auch einer Auseinandersetzung mit der berufspraktischen Sozialisation neue Perspektiven zu eröffnen vermag. In Auseinandersetzung mit den empirischen Analysen der betreuten Dissertationen ist eine Monografie mit dem Titel „Professionalisierung in praxeologischer Perspektive“ entstanden.
+Being highly inspired by the dissertations I supervised, I further occupied myself with the intricacies of professionalization in people processing organizations. It became increasingly clear to me that the praxeological sociology of knowledge bears the potential to open up new perspectives on socialization in professional practices. In dealing with the empirical work of the supervised dissertations, I released the monograph »Professionalization from a Praxeological Perspective« [Professionalisierung in praxeologischer Perspektive].
+

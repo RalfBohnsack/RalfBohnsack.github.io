@@ -29,7 +29,7 @@ en:
         parent: Publications
         url: 'post/publications_by_focus_en/'
         weight: 52
-      - name: Foreign Language Publications
+      - name: Non-German Publications
         parent: Publications
         url: 'post/foreign_publications_en/'
         weight: 53

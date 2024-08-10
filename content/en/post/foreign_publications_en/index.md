@@ -1,9 +1,9 @@
 ---
-title: Fremdsprachige Publikationen
-subtitle: Fremdsprachige Publikationen
+title: Non-German Publications
+subtitle: Non-German Publications
 
 # Summary for listings and search engines
-summary: Fremdsprachige Publikationen
+summary: Non-German Publications of Ralf Bohnsack
 
 # Link this post with a project
 projects: []
@@ -33,8 +33,8 @@ authors:
 
 ---
 
-[Publikationsliste (allgemein)](/post/publikationsliste_ger/)  
-[Publikationsliste nach Forschungsschwerpunkten](/post/publikationsliste_forschungsschwerpunkte_ger/)
+[Publikationsliste (allgemein)](/en/post/publications_list_en/)  
+[Publikationsliste nach Forschungsschwerpunkten](/en/post/publications_by_focus_en/)
 
 1. <a href="#eng">English</a>
 2. <a href="#prt">Portuguese</a>

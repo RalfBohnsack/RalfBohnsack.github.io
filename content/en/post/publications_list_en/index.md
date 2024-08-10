@@ -1,9 +1,9 @@
 ---
-title: Publikationsliste
-subtitle: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+title: Publications
+subtitle: A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
 
 # Summary for listings and search engines
-summary: Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+summary: A comprehensive overview of the publications of Ralf Bohnsack
 
 # Link this post with a project
 projects: []
@@ -33,16 +33,16 @@ authors:
 
 ---
 
-Meine Publikationen von heute bis 1973 finden sich auf dieser Seite als umfassende Gesamtliste. Ebenso finden sich sortierte Listen hinsichtlich meiner Forschungsschwerpunkte und meiner fremdsprachigen Tite
+This page contains a comprehensive list of all of my publications since 1973. Alternatively, you will also find lists of my publications by research focus and my non-German publications.
 
-1. <a href="#monografien">Monografien</a>
-2. <a href="#aufsatze">Aufsätze</a>
-3. <a href="#herausgeberschaften">Herausgeberschaften</a>
-4. <a href="#reihen">Reihen und Zeitschriften</a>
-5. <a href="#beirat">Beiratsmitgliedschaften</a>
+1. <a href="#monografien">Monographs</a>
+2. <a href="#aufsatze">Articles</a>
+3. <a href="#herausgeberschaften">Editorial Boards</a>
+4. <a href="#reihen">Editorial Boards of Series and Journals</a>
+5. <a href="#beirat">Advisory Boards of Academic Journals</a>
 
 <a id="monografien"></a> <!-- This is the anchor -->
-## Monografien
+## Monographs
 
 Ralf Bohnsack, Vera Sparschuh (2022):  Die Theorie der Praxis und die Praxis der Forschung. Ralf Bohnsack im Gespräch mit Vera Sparschuh. Opladen, Berlin, Toronto: Barbara Budrich.
 
@@ -87,7 +87,7 @@ nach Gemeinsamkeit und die Gewalt der Gruppe. Hooligans, Musikgruppen und andere
 
 
 <a id="aufsatze"></a> <!-- This is the anchor -->
-## Aufsätze
+## Articles
 
 **2024**
 
@@ -594,7 +594,7 @@ Beziehung zur Handlungskompetenz der Tatverdächtigen. In: Kriminologisches
 Journal, 5. Jg., Heft 4, 270-290.
 
 <a id="herausgeberschaften"></a> <!-- This is the anchor -->
-## Herausgeberschaften
+## Editorial Boards
 
 Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (2024): Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen: Barbara Budrich.
 
@@ -637,7 +637,7 @@ Arbeitsgruppe Bielefelder Soziologen (Ralf Bohnsack, Werner Meinefeld, Fritz Sch
 Arbeitsgruppe Bielefelder Soziologen (Joachim Matthes, Werner Meinefeld, Fritz Schutze, Werner Springer, Ansgar Weymann, Ralf Bohnsack) (1981): Alltagswissen, Interaktion und gesellschaftliche Wirklichkeit. Reinbek b. Hamburg: Westdeutscher Verlag.
 
 <a id="reihen"></a> <!-- This is the anchor -->
-## Herausgeberschaften von Reihen und Zeitschriften
+## Editorial Boards of Series and Journals
 
 Reihe: Sozialwissenschaftliche Ikonologie: Qualitative Bild-und Videointerpretation (gemeinsam mit Aglaja Przyborski / Jürgen Raab / Thomas Slunecko). Opladen, Berlin, Toronto: Barbara Budrich.
 
@@ -647,7 +647,7 @@ ZQF: Zeitschrift für Qualitative Sozialforschung (bis 2023) (gemeinsam mit Jör
 Opladen u. Farmington Hills: Barbara Budrich.
 
 <a id="beirat"></a> <!-- This is the anchor -->
-## Beiratsmitgliedschaften von Zeitschriften
+## Advisory Boards of Academic Journals
 
 Diskurs Kindheits- und Jugendforschung. Verlag Barbara Budrich.
 

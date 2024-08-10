@@ -1,9 +1,9 @@
 ---
-title: Publikationsliste nach Forschungsschwerpunkten
-subtitle: Publikationsliste nach Forschungsschwerpunkten
+title: Publications by Research Focus
+subtitle: Publications by Research Focus
 
 # Summary for listings and search engines
-summary: Publikationsliste nach Forschungsschwerpunkten
+summary: Publications of Ralf Bohnsack sorted by Research Focus
 
 # Link this post with a project
 projects: []
@@ -33,26 +33,26 @@ authors:
 
 ---
 
-[Publikationsliste (allgemein)](/post/publikationsliste_ger/)  
-[Fremdsprachige Publikationen](/post/publikationsliste_foreign_ger/)
+[Publications (general)](/en/post/publications_list_en/)  
+[Non-German Publications](/en/post/foreign_publications_en//)
 
-1. <a href="#1">Dokumentarische Methode - allgemein</a>
-2. <a href="#2">Dokumentarische Gesprächsanalyse</a>
-3. <a href="#3">Dokumentarische Bildinterpretation</a>
-4. <a href="#4">Dokumentarische Video- und Filminterpretation</a>
-5. <a href="#5">Fremdrahmung und Macht</a>
-6. <a href="#6">Typenbildung und Generalisierung</a>
-7. <a href="#7">Praxeologische Wissenssoziologie - allgemein</a>
-8. <a href="#8">Spannungsverhältnis von propositionaler und performativer Logik</a>
-9. <a href="#9">Konjunktiver Erfahrungsraum</a>
-10. <a href="#10">Professionalisierungsforschung</a>
-11. <a href="#11">Erkenntnistheorie und Dokumentarische Methode</a>
-12. <a href="#12">Forschung zu Jugend und Jugendkriminalität</a>
-13. <a href="#13">Milieu- und Generationsforschung</a>
-14. <a href="#14">Evaluationsforschung</a>
+1. <a href="#1"> Documentary Method - General</a>
+2. <a href="#2">Documentary Discourse Analysis</a>
+3. <a href="#3">Documentary Picture Interpretation</a>
+4. <a href="#4">Documentary Video and Film Interpretation</a>
+5. <a href="#5">Heteronomous Framing and Power</a>
+6. <a href="#6">Typification and Generalization</a>
+7. <a href="#7">Praxeological Sociology of Knowledge - General</a>
+8. <a href="#8">Relationship of Tension between Propositional and Performative Logic</a>
+9. <a href="#9">Conjunctive Spaces of Experience</a>
+10. <a href="#10">Professionalization Research</a>
+11. <a href="#11">Epistemology and Documentary Method</a>
+12. <a href="#12">Research about Youth and Juvenile Delinquency</a>
+13. <a href="#13">Milieu and Generation Research</a>
+14. <a href="#14">Evaluation Research </a>
 
 <a id="1"></a> <!-- This is the anchor -->
-## Dokumentarische Methode - allgemein
+## Documentary Method - General
 
 Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden. Opladen, Berlin, Toronto: utb/Barbara Budrich.
 
@@ -72,7 +72,7 @@ Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Grupp
 – Kapitel 5: Zur dokumentarischen Methode der Interpretation
 
 <a id="2"></a> <!-- This is the anchor -->
-## Dokumentarische Gesprächsanalyse
+## Documentary Discourse Analysis
 
 Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden. Opladen, Berlin, Toronto: UTB/Barbara Budrich.
 – Kapitel 7: Gruppendiskussionsverfahren und Gesprächsanalyse
@@ -94,7 +94,7 @@ Ralf Bohnsack (2000): Gruppendiskussion. In: Uwe Flick / Ernst v. Kardorff / Ine
 Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich.
 
 <a id="3"></a> <!-- This is the anchor -->
-## Dokumentarische Bildinterpretation
+## Documentary Picture Interpretation
 
 Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden. Opladen, Berlin, Toronto: UTB/Barbara Budrich.
 – Kapitel 8: Qualitative Methoden der Bildinterpretation und dokumentarische Methode.
@@ -117,7 +117,7 @@ Ralf Bohnsack (2011): Qualitative Bild- und Videointerpretation. Die dokumentari
 
 
 <a id="4"></a> <!-- This is the anchor -->
-## Dokumentarische Video- und Filminterpretation
+## Documentary Video and Film Interpretation
 
 Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden. Opladen, Berlin, Toronto: UTB / Barbara Budrich.
 – Kapitel 10: Dokumentarische Video- und Filminterpretation
@@ -133,7 +133,7 @@ Ralf Bohnsack (2011): Qualitative Bild- und Videointerpretation. Die dokumentari
 Ralf Bohnsack (2010): Zugänge zur Eigenlogik des Visuellen und die dokumentarische Videointerpretation. In: Michael Corsten / Melanie Krug / Christine Moritz (Hrsg.): Videographie Praktizieren. Herangehensweisen, Möglichkeiten und Grenzen. Wiesbaden: VS-Springer, 271-294.
 
 <a id="5"></a> <!-- This is the anchor -->
-## Fremdrahmung und Macht
+## Heteronomous Framing and Power
 
 (2024): Konstituierende Rahmung, konjunktiver Erfahrungsraum und praktisches Erkennen. In: Ralf Bohnsack/ Tanja Sturm/ Benjamin Wagner (Hrsg.), Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen: Barbara Budrich, 17-63
 - Kap. 7: Identitätsnorm und Subordination: Rahmungsmacht und Rahmungsherrschaft
@@ -149,7 +149,7 @@ Ralf Bohnsack (1983): Alltagsinterpretation und soziologische Rekonstruktion. Op
 – Kapitel 2: Interpretatives Handeln im Kontext der Machtausübung.
 
 <a id="6"></a> <!-- This is the anchor -->
-## Typenbildung und Generalisierung
+## Typification and Generalization
 
 Ralf Bohnsack (2020): Die Mehrdimensionalität der Typenbildung und ihre Aspekthaftigkeit. In: Jutta Ecarius / Burkhard Schäffer (2010) (Hrsg.): Typenbildung und Theoriegenerierung. Methoden und Methodologien qualitativer Bildungs- und Biographieforschung. Opladen & Farmington Hills: Barbara Budrich, 21-48 (zuerst 2010)
 
@@ -162,7 +162,7 @@ Ralf Bohnsack (2010): Dokumentarische Methode und Typenbildung – Bezüge zur S
 Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich.
 
 <a id="7"></a> <!-- This is the anchor -->
-## Praxeologische Wissenssoziologie - allgemein
+## Praxeological Sociology of Knowledge - General
 
 Ralf Bohnsack (2021): Praxeologische Wissenssoziologie. In: ZQF: Zeitschrift für Qualitative Forschung. 22. Jg., Heft 1, 87-100.
 
@@ -179,7 +179,7 @@ Ralf Bohnsack (1998): Rekonstruktive Sozialforschung und der Grundbegriff des �
 Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich.
 
 <a id="8"></a> <!-- This is the anchor -->
-## Spannungsverhältnis von propositionaler und performativer Logik
+## Relationship of Tension between Propositional and Performative Logic
 
 Ralf Bohnsack (2017): Praxeologische Wissenssoziologie. Opladen u. Toronto: UTB / Barbara Budrich.
 – Kapitel 3: Konjunktives und kommunikatives Wissen und Handeln
@@ -190,7 +190,7 @@ Ralf Bohnsack / Aglaja Przyborski (2015): Habitus, Pose und Lifestyle in der Iko
 Ralf Bohnsack (2014): Habitus, Norm und Identität. In: Werner Helsper / Rolf-Torsten Kramer / Sven Thiersch (Hrsg.): Schülerhabitus. Wiesbaden: VS-Verlag, 35-55.
 
 <a id="9"></a> <!-- This is the anchor -->
-## Konjunktiver Erfahrungsraum
+## Conjunctive Spaces of Experience
 
 Ralf Bohnsack (2017): Praxeologische Wissenssoziologie. Opladen u. Toronto: UTB / Barbara Budrich.
 – Kapitel 4: Die Komplexität des konjunktiven Erfahrungsraums
@@ -203,7 +203,7 @@ Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Grupp
 Ralf Bohnsack (1998): Milieu als konjunktiver Erfahrungsraum. Eine dynamische Konzeption von Milieu in empirischer Analyse. In: Ulf Matthiesen (Hrsg.): Die Räume der Milieus. Neue Tendenzen in der sozial- und raumwissenschaftlichen Milieuforschung in der Stadt- und Raumplanung. Berlin: Edition Sigma, 119-131.
 
 <a id="10"></a> <!-- This is the anchor -->
-## Professionalisierungsforschung
+## Professionalization Research
 
 Ralf Bohnsack (2024): Konstituierende Rahmung und praktisches Erkennen und Reflektieren in der organisationalen Praxis. In: Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (Hrsg.): Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen: Barbara Budrich, 7-63.
 
@@ -218,7 +218,7 @@ Ralf Bohnsack (2020): Professionalisierung in praxeologischer Perspektive. Zur E
 Ralf Bohnsack / Sonja Kubisch / Claudia Streblow-Poser (2018): Soziale Arbeit und Dokumentarische Methode. In: Ralf Bohnsack / Sonja Kubisch / Claudia Streblow-Poser (Hrsg.): Soziale Arbeit und Dokumentarische Methode. Opladen u. Toronto: Barbara Budrich, 7-38.
 
 <a id="11"></a> <!-- This is the anchor -->
-## Erkenntnistheorie und Dokumentarische Methode
+## Epistemology and Documentary Method
 
 Ralf Bohnsack (2021): Rekonstruktive Sozialforschung. Einführung in qualitative Methoden (10. Auflage). Opladen, Berlin, Toronto: utb/Barbara Budrich.
 – Kapitel 2: Rekonstruktive Verfahren in der empirischen Sozialforschung im Unterschied zu hypothesenprüfenden Verfahren
@@ -234,7 +234,7 @@ Ralf Bohnsack (2005): Standards nicht-standardisierter Forschung in den Erziehun
 
 
 <a id="12"></a> <!-- This is the anchor -->
-## Forschung zu Jugend und Jugendkriminalität
+## Research about Youth and Juvenile Delinquency
 
 Ralf Bohnsack (2004): Rituale des Aktionismus bei Jugendlichen. Kommunikative und konjunktive, habitualisierte und experimentelle Rituale. In: Zeitschrift für Erziehungswissenschaft (ZfE), 7. Jg., Beiheft Nr. 2: Innovation und Ritual. Jugend, Geschlecht und Schule. Hrsg. von Christoph Wulf u. Jörg Zirfas, 81-90. Wiesbaden: VS Verlag.
 
@@ -257,7 +257,7 @@ Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Grupp
 Ralf Bohnsack (1973): Handlungskompetenz und Jugendkriminalität. Neuwied u. Berlin: Luchterhand.
 
 <a id="13"></a> <!-- This is the anchor -->
-## Milieu- und Generationsforschung
+## Milieu and Generation Research 
 
 Ralf Bohnsack (2020): Generation in praxeologischer Perspektive: performatives Gedächtnis und konjunktiver Erfahrungsraum. In: Olaf Dörner / Denise Klinge / Franz Krämer / Franziska Endreß (Hrsg.): Metapher, Medium, Methode. Theoretische und empirische Zugänge zur Bildung Erwachsener, 19-38.
 
@@ -275,7 +275,7 @@ Ralf Bohnsack (1998): Milieu als konjunktiver Erfahrungsraum. Eine dynamische Ko
 Ralf Bohnsack (1989): Generation, Milieu und Geschlecht – Ergebnisse aus Gruppendiskussionen mit Jugendlichen. Opladen: Leske u. Budrich.
 
 <a id="14"></a> <!-- This is the anchor -->
-## Evaluationsforschung
+## Evaluation Research 
 
 Ralf Bohnsack (2020): Qualitative Evaluationsforschung und dokumentarische Methode. In: Ralf Bohnsack / Iris Nentwig-Gesemann (Hrsg.): Dokumentarische Evaluationsforschung. Theoretische Grundlagen und Beispiele aus der Praxis. Opladen u. Farmington Hills. Barbara Budrich, 27-66.
 
