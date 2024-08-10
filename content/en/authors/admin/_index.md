@@ -1,6 +1,7 @@
 ---
 # Display name
 #title: Professor. Dr. Ralf Bohnsack
+#ENGENGENGENG
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -21,7 +22,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universitätsprofessor a.D. der Freien Universität Berlin
+  - name: University Professor Emeritus of the Free University of Berlin
     url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -109,11 +110,11 @@ social:
 highlight_name: true
 ---
 
-Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbeiten und Publikationen und deren Schwerpunkte geben. Dazu gehören unter anderem die Rekonstruktive Sozialforschung, die Dokumentarische Methode und die Praxeologische Wissenssoziologie sowie die Gesprächsanalyse und die Bild- und Videointerpretation.<br>
+On this website, I wish to provide insight into my academic work, as well as my publications and the corresponding subject areas. These include, but are not limited to, reconstructive social research, the documentary method, the praxeological sociology of knowledge, conversation analysis, as well as the documentary interpretation of pictures and videos.<br>
 {style="text-align: justify;"}
 
 Hier finden Sie:<br>
-- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte/): Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschun
-- [**Curriculum Vitae**](/post/curriculum-vitae_ger/): Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
-- [**Publikationsliste**](/post/publikationsliste/): Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte/): Detailed insights into my methodical-methodological standpoint, my theoretical specialization, and the empirical subject areas of my research.
+- [**Curriculum Vitae**](/post/curriculum-vitae_ger/): The stages of my academic training, the positions and offices I held throughout my career as well as their links to my professional work.
+- [**Publikationsliste**](/post/publikationsliste/): A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
 {style="text-align: justify;"}
