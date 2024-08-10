@@ -4,7 +4,7 @@
 
 # Default language
 en:
-  languageName: "English"
+  languageName: "German"
   weight: 1
   menu:
     main:
@@ -34,7 +34,7 @@ en:
         weight: 53
 
 de:
-  languageName: "Deutsch"
+  languageName: "English"
   weight: 2
   menu:
     main:
