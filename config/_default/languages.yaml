@@ -42,25 +42,25 @@ de:
         url: '#about'
         weight: 10
       - name: Forschungsschwerpunkte
-        url: 'content/de/post/forschungsschwerpunkte_ger/'
+        url: 'content/post/forschungsschwerpunkte_ger/'
         weight: 30
       - name: Curriculum Vitae
-        url: 'content/de/post/curriculum-vitae_ger/'
+        url: 'content/post/curriculum-vitae_ger/'
         weight: 40
       - name: Publikationen
-        url: 'content/de/post/publikationsliste_ger/'
+        url: 'content/post/publikationsliste_ger/'
         weight: 50
       - name: Publikationsliste
         parent: Publikationen
-        url: 'content/de/post/publikationsliste_ger/'
+        url: 'content/post/publikationsliste_ger/'
         weight: 51
       - name: Publikationsliste nach Forschungsschwerpunkten
         parent: Publikationen
-        url: 'content/de/post/publikationsliste_forschungsschwerpunkte_ger/'
+        url: 'content/post/publikationsliste_forschungsschwerpunkte_ger/'
         weight: 52
       - name: Fremdsprachige Publikationen
         parent: Publikationen
-        url: 'content/de/post/publikationsliste_foreign_ger/'
+        url: 'content/post/publikationsliste_foreign_ger/'
         weight: 53
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
