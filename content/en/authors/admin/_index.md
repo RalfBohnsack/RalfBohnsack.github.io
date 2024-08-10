@@ -110,10 +110,10 @@ social:
 highlight_name: true
 ---
 
-On this website, I wish to provide insight into my academic work, as well as my publications and the corresponding subject areas. These include, but are not limited to, reconstructive social research, the documentary method, the praxeological sociology of knowledge, conversation analysis, as well as the documentary interpretation of pictures and videos.<br>
+On this website, I wish to provide insight into my academic work, including my publications and the corresponding subject areas. These include, but are not limited to, reconstructive social research, the documentary method, the praxeological sociology of knowledge, conversation analysis, as well as the documentary interpretation of pictures and videos.<br>
 {style="text-align: justify;"}
 
-Hier finden Sie:<br>
+Here you will find:<br>
 - [**Research Focus**](/en/post/research_focus_en/): Detailed insights into my methodical-methodological standpoint, my theoretical specialization, and the empirical subject areas of my research.
 - [**Curriculum Vitae**](/en/post/curriculum-vitae_en/): The stages of my academic training, the positions and offices I held throughout my career as well as their links to my professional work.
 - [**Publications**](/en/post/publications_list_en//): A comprehensive overview of my publications since 1973, sorted by type of publication and subject category.
