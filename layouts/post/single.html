@@ -4,9 +4,6 @@
   </head>
   <div class="container">
     <div class="post">
-      <!-- Language Switcher -->
-      {{ partial "language-switcher.html" . }}
-
       <h1>{{ .Title }}</h1>
       {{ if .Date }}
         <p>{{ .Date.Format "Jan 2, 2006" }}</p>
