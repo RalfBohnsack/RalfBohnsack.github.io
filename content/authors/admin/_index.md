@@ -113,7 +113,7 @@ Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbei
 {style="text-align: justify;"}
 
 Hier finden Sie:<br>
-- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte/): Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.
+- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte_ger/): Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.
 - [**Curriculum Vitae**](/post/curriculum-vitae_ger/): Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
-- [**Publikationsliste**](/post/publikationsliste/): Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
+- [**Publikationsliste**](/post/publikationsliste_ger/): Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
 {style="text-align: justify;"}
