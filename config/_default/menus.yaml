@@ -28,6 +28,9 @@ main:
     parent: Publikationen
     url: '/post/publikationsliste_foreign_ger/'
     weight: 53
+  - name: English Version
+    url: '#about/en/'
+    weight: 54
 
 
 

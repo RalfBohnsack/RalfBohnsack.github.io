@@ -22,7 +22,9 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University Professor Emeritus of the Free University of Berlin
+  - name: |
+      Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz.  \n
+      Universitätsprofessor a.D. der Freien Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
 # Short bio (displayed in user profile at end of posts)
