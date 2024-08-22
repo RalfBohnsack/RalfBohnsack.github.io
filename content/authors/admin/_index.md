@@ -21,7 +21,9 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universitätsprofessor a.D. der Freien Universität Berlin
+  - name: |
+      Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz.  
+      Universitätsprofessor a.D. der Freien Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -113,7 +115,7 @@ Auf dieser Homepage möchte ich einen Einblick in meine wissenschaftlichen Arbei
 {style="text-align: justify;"}
 
 Hier finden Sie:<br>
-- [**Forschungsschwerpunkt**](/post/forschungsschwerpunkte_ger/): Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.
+- [**Forschungsschwerpunkte**](/post/forschungsschwerpunkte_ger/): Ein Einblick in meine methodisch-methodologische Verortung, meinen grundlagentheoretischen Fokus sowie die empirischen Gegenstandsbereiche meiner Forschung.
 - [**Curriculum Vitae**](/post/curriculum-vitae_ger/): Eine Darstellung der Etappen meiner akademischen Ausbildung, meiner beruflichen Positionen und deren Zusammenhänge mit meinen wissenschaftlichen Arbeiten.
 - [**Publikationsliste**](/post/publikationsliste_ger/): Ein Überblick über alle meine Publikationen von heute bis 1973 sowie eine Sortierung nach Rubriken und thematischen Schwerpunkten.
 {style="text-align: justify;"}
