@@ -34,8 +34,8 @@ en:
         url: 'post/foreign_publications_en/'
         weight: 53
       - name: German Version
-        url: '#about'
-        weight: 54  
+        url: '/'
+        weight: 54
 
 de:
   languageName: "German"
@@ -68,8 +68,8 @@ de:
         url: 'post/publikationsliste_foreign_ger/'
         weight: 53
       - name: English Version
-        url: '#about/en/'
-        weight: 54 
+        url: '/en/'
+        weight: 54
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
