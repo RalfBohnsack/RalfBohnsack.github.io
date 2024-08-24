@@ -23,7 +23,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: |
-      Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz.  <br>
+      Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz.  
       Universitätsprofessor a.D. der Freien Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
