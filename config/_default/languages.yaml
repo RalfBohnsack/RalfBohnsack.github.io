@@ -34,7 +34,7 @@ en:
         url: 'post/foreign_publications_en/'
         weight: 53
       - name: German Version
-        url: '{{< relLangURL "/" >}}'
+        url: 'https://ralfbohnsack.github.io'
         weight: 54
 
 de:
@@ -68,7 +68,7 @@ de:
         url: 'post/publikationsliste_foreign_ger/'
         weight: 53
       - name: English Version
-        url: '{{< relLangURL "/en/" >}}'
+        url: '/en/'
         weight: 54
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
