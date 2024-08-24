@@ -36,7 +36,7 @@ authors:
 
 With this overview, I wish to illustrate the connection between the stages of my education, my scientific work, and the positions I held at the Universities of Muenster and Bielefeld, the University of Erlangen-Nuremberg, as well as the Free University of Berlin.
 
-## At the Universities of Muenster and Bielefeld | 1967-1977
+## At the Universities of Muenster and Bielefeld: 1967-1977
 
 **1967-1972**
 
@@ -51,7 +51,7 @@ After my diploma, I was occupied by the [Centre for Interdisciplinary Research](
 
 Subsequent to receiving a scholarship for postgraduates, I worked as a research assistant in a project funded by the [Federal Ministry of Research and Technology](https://www.bmbf.de/bmbf/en/home/home_node.html) on model institutions in social policy. In the scope of this project, nine youth and drug counselling facilities in North Rhine-Westphalia and Baden-Württemberg (Germany) were examined. As a research-practical novelty at this time, we were able to convince the employees of these institutions to let us evaluate their recorded consultation sessions.
 
-## At the University of Erlangen–Nuremberg | 1977-1990
+## At the University of Erlangen–Nuremberg: 1977-1990
 
 **1977-1981**
 
@@ -64,7 +64,7 @@ conversation led to a closer examination of group discussion as a research metho
 
 This endeavour resulted in my habilitation thesis with the final title »Generation, Milieu and Gender. Results from Group Discussions with Young People« [Generation, Milieu und Geschlecht. Ergebnisse aus Gruppendiskussionen mit Jugendlichen], which was reviewed by Werner Mangold and Joachim Matthes. With my habilitation, I received the teaching qualification (Venia Legendi) in general sociology.
 
-## At the Free University of Berlin | 1990-2013
+## At the Free University of Berlin: 1990-2013
 
 **1990-2001**
 

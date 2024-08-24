@@ -38,7 +38,7 @@ Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen 
 {style="text-align: justify;"}
 
 
-## An den Universitäten Münster und Bielefeld | 1967-1977
+## An den Universitäten Münster und Bielefeld: 1967-1977
 
 **1967-1972**
 
@@ -54,7 +54,7 @@ Nach meinem Diplom hatte ich eine Stelle als wissenschaftlicher Mitarbeiter am [
 
 Im Anschluss war ich nach einem kurzfristigen Stipendium für Postgraduierte als wissenschaftlicher Mitarbeiter in einem vom [Bundesforschungsministerium für Forschung und Technologie](https://www.bmbf.de/bmbf/de/home/home_node.html) geförderten Projekt zu „Modelleinrichtungen in der Sozialpolitik“ tätig. Untersucht wurden neun Einrichtungen der Jugend- und Drogenberatung in Nordrhein-Westfallen und Baden-Württemberg. Deren Mitarbeiter*innen konnten wir (damals ein Durchbruch im Bereich qualitativer Forschung) davon überzeugen, uns ihre elektronisch aufgezeichneten Beratungsgespräche zur Auswertung zu überlassen.
 
-## An der Universität Erlangen-Nürnberg | 1977-1990
+## An der Universität Erlangen-Nürnberg: 1977-1990
 
 **1977-1981**
 
@@ -69,7 +69,7 @@ Nach meiner Promotion im Jahre 1981 führte mein Interesse an der Weiterentwickl
 Hieraus ist meine Habilitationsschrift entstanden (vgl. Bohnsack 1989) mit dem Titel: »Kollektive Lebensorientierungen in Gruppen Jugendlicher. Exemplarische Wege zur empirischen Analyse des Zusammenhangs von Adoleszenzentwicklung, Milieu, Geschlecht und Generation« (Gutachter: Werner Mangold und Joachim Matthes). Mit der Habilitation erhielt ich die Lehrbefähigung (Venia Legendi) in „Allgemeiner Soziologie“.
 
 
-## An den Freien Universität Berlin | 1990-2013
+## An den Freien Universität Berlin: 1990-2013
 
 **1990-2001**
 
