@@ -34,7 +34,7 @@ en:
         url: 'post/foreign_publications_en/'
         weight: 53
       - name: German Version
-        url: '/'
+        url: '{{< relLangURL "/" >}}'
         weight: 54
 
 de:
@@ -68,7 +68,7 @@ de:
         url: 'post/publikationsliste_foreign_ger/'
         weight: 53
       - name: English Version
-        url: '/en/'
+        url: '{{< relLangURL "/en/" >}}'
         weight: 54
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
