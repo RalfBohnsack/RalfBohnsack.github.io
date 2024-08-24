@@ -48,13 +48,13 @@ authors:
 <a id="eng"></a> <!-- This is the anchor -->
 ## English
 
-(2024): Documentary method and praxeological sociology of knowledge in the interpretation of pictures [Método documentario y sociología praxeológica del conocimiento en la interpretación de imágenes] In: methaodos, revista de ciencias sociales. Vol. 12 Núm. 2 
+(2024): Documentary method and praxeological sociology of knowledge in the interpretation of pictures [Método documentario y sociología praxeológica del conocimiento en la interpretación de imágenes] In: methaodos, revista de ciencias sociales. Vol. 12 , Núm. 2 
 
 (2020): Documentary Method, Praxeology and Iconology. In: Κοντάκος, Αναστάσιος Θ./ Σταμάτης, Παναγιώτης I. (επιμέλεια): Θέματα Θεωρίαςκαι Ερευνητικής Μεθοδολογίας της Επικοινωνίας στην Εκπαίδευση (Σειρά: ΕΠΙΚΟΙΝΩΝΊΑ ΚΑΙ ΕΚΠΑΊΔΕΥΣΗ). Athens, 61-86
 
 (2020): Iconology and Documentary Method in the Interpretation of Divergent Types of Visual Materials. In: Luc Pauwels / Dawn Mannay (Eds.): The Sage Handbook of Visual Methods. (2nd Ed) London: Sage, 397-412.
 
-(2018): Praxeological Sociology of Knowledge and Documentary Method: Karl Mannheim’s Framing of Empirical Research. In: David Kettler / Volker Meja (Eds.): The Anthem Companion to Karl Mannheim. London, New York, Delhi: Anthem, 199 220
+(2018): Praxeological Sociology of Knowledge and Documentary Method: Karl Mannheim’s Framing of Empirical Research. In: David Kettler / Volker Meja (Eds.): The Anthem Companion to Karl Mannheim. London, New York, Delhi: Anthem, 199 220.
 
 (2017): The Interpretation of Pictures and the Documentary Method. In: ИНТЕР. 2017. Том 1. № 14 (Inter: Interaction. Interview. Interpretation), 7-26.
 

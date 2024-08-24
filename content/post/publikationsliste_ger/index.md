@@ -94,8 +94,11 @@ nach Gemeinsamkeit und die Gewalt der Gruppe. Hooligans, Musikgruppen und andere
 
 (2024): Fallanalysen der Interaktion in People Processing Organizations und die Chancen kasuistischer Bildung. In: Rolf-Torsten Kramer / Thorid Rabe / Doris Wittek (Hrsg.): Fallverstehen und Reflexivität? Beiträge der QLB zur Professionalisierung im Lehramtsstudium. Bad Heilbrunn: Julius Klinkhardt (in Vorbereitung)
 
-(2024): Konstituierende Rahmung, konjunktiver Erfahrungsraum und praktisches Erkennen. In Ralf Bohnsack / Tanja Sturm / Benjamin Wagner (Hrsg.): Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen/ Berlin/ Toronto: Barbara Budrich, 17-63
+(2024) Rahmenkomponenten einer praxeologisch-wissenssoziologischen Prpferssionsforschung. In: Doris Wittek / Jörg Korte /Marlene Kowalski (Hrsg.): Dokumentarische Professionsforschung. Grundlagentheoretische und empirische Bestimmungen zur Professionalisierung von Lehrpersonen. Bad Heilbrunn: Julius Klinkhardt, 21-41
 
+(2024): Documentary method and praxeological sociology of knowledge in the interpretation of pictures [Método documentario y sociología praxeológica del conocimiento en la interpretación de imágenes] In: methaodos, revista de ciencias sociales. Vol. 12 Núm. 2 
+
+(2024): Konstituierende Rahmung, konjunktiver Erfahrungsraum und praktisches Erkennen. In Ralf Bohnsack / Tanja Sturm / Benjamin Wagner (Hrsg.): Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen/ Berlin/ Toronto: Barbara Budrich, 17-63
 Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (2024): Konstituierende Rahmung. Grundlagen professioneller Praxis in Organisationen. Ein erster Überblick. In: Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (Hrsg.): Konstituierende Rahmung. Grundlagen professioneller Praxis in Organisationen. Opladen/ Berlin/ Toronto: Barbara Budrich, 9-16
 
 **2023**
@@ -108,7 +111,7 @@ Ralf Bohnsack / Andreas Bonnet (2023): Innovation durch Steuerung? – Praxeolog
 
 **2022**
 
-(2022) Metatheoretische Grundlagen der praxeologisch-wissenssoziologischen Professionsforschung. In: Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (Hrsg.): Praxeologisch-wissenssoziologische Professionsforschung. Perspektiven aus Früh- und Schulpädagogik, Fachdidaktik und Sozialer Arbeit. Bad Heilbrunn: Klinkhardt.
+(2022) Metatheoretische Rahmung der praxeologisch-wissenssoziologischen Professionsforschung. In: Ralf Bohnsack / Andreas Bonnet / Uwe Hericks (Hrsg.): Praxeologisch-wissenssoziologische Professionsforschung. Perspektiven aus Früh- und Schulpädagogik, Fachdidaktik und Sozialer Arbeit. Bad Heilbrunn: Klinkhardt, 31-55
 
 **2021**
 
@@ -575,7 +578,7 @@ Ralf Bohnsack / Bodo Wild: Cliquen, Banden und Vereine (1997): Die Suche nach Mi
 
 (1995): Episodale Schicksalsgemeinschaft und Jugendgewalt: Hooligan-Gruppen in intensiver Fallanalyse. In: Heinz Sahner / Stefan Schwendtner (Hrsg.): 27. Kongreß der Deutschen Gesellschaft für Soziologie 1995: Gesellschaften im Umbruch, 379-384.
 
-**1973-1993**
+**1992-1973**
 
 (1993): Dokumentsinn, intendierter Ausdruckssinn und Objektsinn. In: Ethik und
 Sozialwissenschaften – Streitforum für Erwägungskultur, Heft 4, 1993, 518-521.

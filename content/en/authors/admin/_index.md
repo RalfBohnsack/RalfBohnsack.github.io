@@ -25,6 +25,7 @@ organizations:
   - name: |
       Prof. Dr. rer. soc., Dr. phil. habil., Dipl.-Soz.  
       Universitätsprofessor a.D. der Freien Universität Berlin
+    url: https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/ehemalige/qualitativ/mitarbeiter/rbohnsack/index.html
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
