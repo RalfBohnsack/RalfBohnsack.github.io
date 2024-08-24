@@ -34,7 +34,7 @@ en:
         url: 'post/foreign_publications_en/'
         weight: 53
       - name: German Version
-        url: '/de/'
+        url: '../'
         weight: 54
 
 de:
