@@ -46,6 +46,8 @@ Nach meinem Abitur habe ich zunächst an der Rechts- und Staatswissenschaftliche
 
 Meine Diplomarbeit (Gutachter: Joachim Matthes und Günther Albrecht) trägt den voluminösen Titel »Versuch einer Verknüpfung kriminalsoziologischer Theorien der Subkultur, der Anomie, des Definitionsansatzes unter dem Aspekt der Jugend mit Hilfe allgemeiner soziologischer Theorie unter Berücksichtigung von Theorien der neueren Wissenssoziologie«. Veröffentlicht wurde sie unter dem Titel »Handlungskompetenz und Jugendkriminalität«
 
+<img src="/static/uploads/featured.jpg" alt="Alt Text" style="float: right;">
+
 **1967-1972**
 
 Nach meinem Diplom hatte ich eine Stelle als wissenschaftlicher Mitarbeiter am [ZiF (Zentrum für interdisziplinäre Forschung der Universität Bielefeld)](https://www.uni-bielefeld.de/(en)/ZiF/) mit dem Aufgabenbereich der Vorbereitung eines internationalen Kongresses zur Sprachsoziologie. An diesem Kongress waren u.a. Erving Goffman, Harold Garfinkel und Harvey Sacks beteiligt.
