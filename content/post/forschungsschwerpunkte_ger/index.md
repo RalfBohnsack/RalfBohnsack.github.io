@@ -40,7 +40,7 @@ Wenn von der Dokumentarischen Methode die Rede ist, stehen die grundlagen- und e
 
 ## Methodisch-methodologische Schwerpunkte
 
-![Alt Text](/uploads/featured.jpg)
+![Alt Text](/uploads/methodologie.jpg)
 
 Im Zentrum steht die fortschreitende Elaboration unterschiedlicher methodischer Zugänge und ihrer Triangulation (Kombination und Integration) auf der Grundlage einer rekonstruktiv-praxeologischen Methodologie, also der [Dokumentarischen Methode](/post/publikationsliste_forschungsschwerpunkte_ger/#1). Diese differenziert sich in die folgenden Schwerpunkte:
 
@@ -55,7 +55,7 @@ Diese Zugänge und ihre methodologische Grundlage haben breite transdisziplinär
 
 ## Grundlagentheoretische Schwerpunkte
 
-![Alt Text](/uploads/featured.jpg)
+![Alt Text](/uploads/schwerpunkte.jpg)
 
 Die fortschreitende Elaboration der Grundbegriffe der [Praxeologischen Wissenssoziologie](/post/publikationsliste_forschungsschwerpunkte_ger/#7) findet ganz wesentlich in kritischer Auseinandersetzung mit dem »Ethnozentrismus des Gelehrten« (Bourdieu) statt, das heißt mit dem unzureichenden oder fehlenden Zugang einer rationalistischen sozialwissenschaftlichen Theoriebildung zur Eigenlogik der alltäglichen Praxis. Im Unterschied zu Bourdieu operiert die Praxeologische Wissenssoziologie allerdings auf der Grundlage der empirischen Rekonstruktion des in dieser Praxis implizierten handlungsleitenden Wissens, des »atheoretischen« Wissens (Mannheim). Auf der Basis der Mannheim’schen Wissenssoziologie integriert die Praxeologische Wissenssoziologie Bezüge zur Ethnomethodologie (Garfinkel), Sozialphänomenologie (Schütz) und Kultursoziologie von Bourdieu, ebenso wie zur Identitätstheorie von Erving Goffman und der Systemtheorie von Niklas Luhmann.
 
@@ -67,7 +67,7 @@ Die fortschreitende Elaboration der Grundbegriffe der [Praxeologischen Wissensso
 
 ## Gegenstandsbereiche der Forschung
 
-![Alt Text](/uploads/featured.jpg)
+![Alt Text](/uploads/gegenstandsbereiche.jpg)
 
 Das Spektrum der von mir im Verlauf meiner wissenschaftlichen Entwicklung bearbeiteten Gegenstände ist breit gestreut – insbesondere, wenn ich die von mir im Rahmen meiner Forschungswerkstätten betreuten Dissertationen und Habilitationsschriften einbeziehe. Deren Spektrum ist transdisziplinär angelegt und reicht über die Sozialwissenschaften hinaus bis hin zur Informatik, Medizin und theologischen Bibelexegese. Bis zur Jahrtausendwende bildete die eigene Forschung im Bereich von [Jugend und Adoleszenzentwicklung sowie Jugendkriminalität](/post/publikationsliste_forschungsschwerpunkte_ger/#12) den Schwerpunkt. Wobei die systematische Überschreitung der etablierten Grenze zwischen Jugendforschung und Kriminologie resp. Kriminalsoziologie in Projekten zu Hooligans und Rockbands sowie Jugendlichen türkischer Herkunft bereits als ein Beitrag zur Transdisziplinarität gelten kann. Im Zentrum dieser DFG-Projekte stand die adoleszenz-spezifische Suche nach gesellschaftlicher Milieuzugehörigkeit im Sinne bildungs-, geschlechts- und generationaler Milieus in den jugendlichen Peer-Groups.
 

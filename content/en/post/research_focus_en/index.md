@@ -39,7 +39,7 @@ Concerning the documentary method, the basic and epistemological concepts are pr
 
 ## Methodical-Methodological Focus
 
-![Alt Text](/uploads/featured.jpg)
+![Alt Text](/uploads/methodologie.jpg)
 
 My methodical-methodological focus is on the progressive elaboration of different methodological approaches and their triangulation (combination and integration) – both based on the [documentary method](/en/post/publications_by_focus_en/#1) as a reconstructive-praxeological methodology. This includes the following branches:
 
@@ -54,7 +54,7 @@ The claim to transdisciplinary validity within the social sciences is linked to 
 
 ## Theoretical Specialization
 
-![Alt Text](/uploads/featured.jpg)
+![Alt Text](/uploads/schwerpunkte.jpg)
 
 The progressive elaboration of the basic concepts of the [praxeological sociology of knowledge](/en/post/publications_by_focus_en/#7) is part of a critical examination of the “ethnocentrism of the scholar” (Bourdieu), i.e., the insufficient or missing access to a rationalistic social scientific theory formation concerning the inherent logic of everyday practices. In contrast to Bourdieu, however, the praxeological sociology of knowledge operates based on the empirical reconstruction of the action orientating knowledge that documents itself through social practices, i.e., the “atheoretical” knowledge (Mannheim). Based on Mannheim’s sociology of knowledge, the praxeological sociology of knowledge integrates references to ethnomethodology (Garfinkel), social phenomenology (Schütz), and cultural sociology by Bourdieu, as well as to Erving Goffman’s identity theory and Niklas Luhmann’s systems theory.
 
@@ -66,7 +66,7 @@ The progressive elaboration of the basic concepts of the [praxeological sociolog
 
 ## Subject Areas of Research
 
-![Alt Text](/uploads/featured.jpg)
+![Alt Text](/uploads/gegenstandsbereiche.jpg)
 
 The spectrum of subjects I have worked on throughout my academic career is broad – especially when including the theses and post-doctoral dissertations I have supervised in my research workshops. Their range is transdisciplinary and extends beyond the social sciences to computer science, medicine, and theological biblical exegesis. Up until the turn of the millennium, the focus of my research was in the [area of youth and adolescent development, as well as juvenile delinquency](/en/post/publications_by_focus_en/#12).
 
