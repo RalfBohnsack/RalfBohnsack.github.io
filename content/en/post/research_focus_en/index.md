@@ -39,6 +39,8 @@ Concerning the documentary method, the basic and epistemological concepts are pr
 
 ## Methodical-Methodological Focus
 
+![Alt Text](/uploads/featured.jpg)
+
 My methodical-methodological focus is on the progressive elaboration of different methodological approaches and their triangulation (combination and integration) – both based on the [documentary method](/en/post/publications_by_focus_en/#1) as a reconstructive-praxeological methodology. This includes the following branches:
 
   1. [Documentary discourse analysis](/en/post/publications_by_focus_en/#2), and in particular the group discussion process. These procedures take into account the autonomy of the interaction systems between actors, which cannot be reduced to the individual contributions and intentions of informants.
@@ -52,6 +54,8 @@ The claim to transdisciplinary validity within the social sciences is linked to 
 
 ## Theoretical Specialization
 
+![Alt Text](/uploads/featured.jpg)
+
 The progressive elaboration of the basic concepts of the [praxeological sociology of knowledge](/en/post/publications_by_focus_en/#7) is part of a critical examination of the “ethnocentrism of the scholar” (Bourdieu), i.e., the insufficient or missing access to a rationalistic social scientific theory formation concerning the inherent logic of everyday practices. In contrast to Bourdieu, however, the praxeological sociology of knowledge operates based on the empirical reconstruction of the action orientating knowledge that documents itself through social practices, i.e., the “atheoretical” knowledge (Mannheim). Based on Mannheim’s sociology of knowledge, the praxeological sociology of knowledge integrates references to ethnomethodology (Garfinkel), social phenomenology (Schütz), and cultural sociology by Bourdieu, as well as to Erving Goffman’s identity theory and Niklas Luhmann’s systems theory.
 
   1. The focus is not only on the modus operandi of social practice (habitus) but also on the relationship between practice, expectations, and imaginations (especially those of a normative nature) of those social groups that are being researched. I generally refer to this tension of habitus and norm as that of [performative versus propositional logic](/en/post/publications_by_focus_en/#8).
@@ -61,6 +65,8 @@ The progressive elaboration of the basic concepts of the [praxeological sociolog
   5. My recent examination of the rationalistic discourse in social science stresses that this very discourse, just like individuals, yet lacks the capability to gain access to its very own empirical research practice. This has significant consequences for [methodology and epistemology](/en/post/publications_by_focus_en/#11).
 
 ## Subject Areas of Research
+
+![Alt Text](/uploads/featured.jpg)
 
 The spectrum of subjects I have worked on throughout my academic career is broad – especially when including the theses and post-doctoral dissertations I have supervised in my research workshops. Their range is transdisciplinary and extends beyond the social sciences to computer science, medicine, and theological biblical exegesis. Up until the turn of the millennium, the focus of my research was in the [area of youth and adolescent development, as well as juvenile delinquency](/en/post/publications_by_focus_en/#12).
 

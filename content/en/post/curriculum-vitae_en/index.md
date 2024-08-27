@@ -38,6 +38,8 @@ With this overview, I wish to illustrate the connection between the stages of my
 
 ## At the Universities of Muenster and Bielefeld: 1967-1977
 
+![BIELEFELD, GERMANY - Apr 19, 2021 Building x of the University of Bielefeld where the canteen is located](/uploads/bielefeld.jpg)
+
 **1967-1972**
 
 After graduating from high school, I started studying sociology at the Faculty of Law and Political Science at the [University of Muenster](https://www.uni-muenster.de/en/). When the sociology programme was transferred to the newly founded Faculty of Sociology at the [University of Bielefeld](https://www.uni-bielefeld.de/), I continued my studies there, specializing in general sociology, social work, social psychology, as well as planning and decision-making theory.
@@ -53,6 +55,8 @@ Subsequent to receiving a scholarship for postgraduates, I worked as a research 
 
 ## At the University of Erlangen–Nuremberg: 1977-1990
 
+![Akriesch, GFDL, Kollegienhaus. Friedrich-Alexander-University, Erlangen-Nuremberg](/uploads/nuremberg.jpg)
+
 **1977-1981**
 
 After Joachim Matthes, the supervisor of my diploma thesis, was offered a professorship at the Institute for Sociology at the [University of Erlangen-Nuremberg](https://www.fau.eu/), I was offered a position as a research assistant.
@@ -65,6 +69,8 @@ conversation led to a closer examination of group discussion as a research metho
 This endeavour resulted in my habilitation thesis with the final title »Generation, Milieu and Gender. Results from Group Discussions with Young People« [Generation, Milieu und Geschlecht. Ergebnisse aus Gruppendiskussionen mit Jugendlichen], which was reviewed by Werner Mangold and Joachim Matthes. With my habilitation, I received the teaching qualification (Venia Legendi) in general sociology.
 
 ## At the Free University of Berlin: 1990-2013
+
+![Villa der Arnimallee 11](/uploads/berlin.jpg)
 
 **1990-2001**
 

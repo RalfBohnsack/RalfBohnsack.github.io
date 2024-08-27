@@ -40,16 +40,13 @@ Mit diesem Überblick möchte ich Ihnen die Zusammenhänge zwischen den Etappen 
 
 ## An den Universitäten Münster und Bielefeld: 1967-1977
 
+![BIELEFELD, GERMANY - Apr 19, 2021 Building x of the University of Bielefeld where the canteen is located](/uploads/bielefeld.jpg)
+
 **1967-1972**
 
 Nach meinem Abitur habe ich zunächst an der Rechts- und Staatswissenschaftlichen Fakultät der [Universität Münster](https://www.uni-muenster.de/de/) Soziologie studiert. Im Zuge der Verlegung des soziologischen Studiengangs an die neugegründete Fakultät für Soziologie der [Universität Bielefeld](https://www.uni-bielefeld.de/) habe ich mein Studium dort fortgesetzt (mit den Schwerpunkten: Allgemeine Soziologie – Sozialarbeit – Sozialpsychologie – Planungs- und Entscheidungstheorie).
 
 Meine Diplomarbeit (Gutachter: Joachim Matthes und Günther Albrecht) trägt den voluminösen Titel »Versuch einer Verknüpfung kriminalsoziologischer Theorien der Subkultur, der Anomie, des Definitionsansatzes unter dem Aspekt der Jugend mit Hilfe allgemeiner soziologischer Theorie unter Berücksichtigung von Theorien der neueren Wissenssoziologie«. Veröffentlicht wurde sie unter dem Titel »Handlungskompetenz und Jugendkriminalität«
-
-<img src="/static/uploads/featured.jpg" alt="Alt Text" style="float: right; margin-left: 20px;">
-
-
-![Alt Text](/uploads/featured.jpg)
 
 **1967-1972**
 
@@ -60,6 +57,8 @@ Nach meinem Diplom hatte ich eine Stelle als wissenschaftlicher Mitarbeiter am [
 Im Anschluss war ich nach einem kurzfristigen Stipendium für Postgraduierte als wissenschaftlicher Mitarbeiter in einem vom [Bundesforschungsministerium für Forschung und Technologie](https://www.bmbf.de/bmbf/de/home/home_node.html) geförderten Projekt zu „Modelleinrichtungen in der Sozialpolitik“ tätig. Untersucht wurden neun Einrichtungen der Jugend- und Drogenberatung in Nordrhein-Westfallen und Baden-Württemberg. Deren Mitarbeiter*innen konnten wir (damals ein Durchbruch im Bereich qualitativer Forschung) davon überzeugen, uns ihre elektronisch aufgezeichneten Beratungsgespräche zur Auswertung zu überlassen.
 
 ## An der Universität Erlangen-Nürnberg: 1977-1990
+
+![Akriesch, GFDL, Kollegienhaus. Friedrich-Alexander-University, Erlangen-Nuremberg](/uploads/nuremberg.jpg)
 
 **1977-1981**
 
@@ -73,8 +72,9 @@ Nach meiner Promotion im Jahre 1981 führte mein Interesse an der Weiterentwickl
 
 Hieraus ist meine Habilitationsschrift entstanden (vgl. Bohnsack 1989) mit dem Titel: »Kollektive Lebensorientierungen in Gruppen Jugendlicher. Exemplarische Wege zur empirischen Analyse des Zusammenhangs von Adoleszenzentwicklung, Milieu, Geschlecht und Generation« (Gutachter: Werner Mangold und Joachim Matthes). Mit der Habilitation erhielt ich die Lehrbefähigung (Venia Legendi) in „Allgemeiner Soziologie“.
 
-
 ## An den Freien Universität Berlin: 1990-2013
+
+![Villa der Arnimallee 11](/uploads/berlin.jpg)
 
 **1990-2001**
 
