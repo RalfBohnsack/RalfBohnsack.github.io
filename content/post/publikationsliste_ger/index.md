@@ -99,6 +99,7 @@ nach Gemeinsamkeit und die Gewalt der Gruppe. Hooligans, Musikgruppen und andere
 (2024): Documentary method and praxeological sociology of knowledge in the interpretation of pictures [Método documentario y sociología praxeológica del conocimiento en la interpretación de imágenes] In: methaodos, revista de ciencias sociales. Vol. 12 Núm. 2 
 
 (2024): Konstituierende Rahmung, konjunktiver Erfahrungsraum und praktisches Erkennen. In Ralf Bohnsack / Tanja Sturm / Benjamin Wagner (Hrsg.): Konstituierende Rahmung und professionelle Praxis. Pädagogische Organisationen und darüber hinaus. Opladen/ Berlin/ Toronto: Barbara Budrich, 17-63
+
 Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (2024): Konstituierende Rahmung. Grundlagen professioneller Praxis in Organisationen. Ein erster Überblick. In: Ralf Bohnsack / Tanja Sturm / Benjamin Wagener (Hrsg.): Konstituierende Rahmung. Grundlagen professioneller Praxis in Organisationen. Opladen/ Berlin/ Toronto: Barbara Budrich, 9-16
 
 **2023**
