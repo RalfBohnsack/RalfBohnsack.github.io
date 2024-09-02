@@ -67,3 +67,5 @@ frontmatter:
     expiryDate: []
     lastmod: []
     publishDate: []
+disableKinds:
+- sitemap    
