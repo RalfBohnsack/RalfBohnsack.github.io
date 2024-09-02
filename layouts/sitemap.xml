@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://ralfbohnsack.de/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/post/forschungsschwerpunkte_ger/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/post/curriculum-vitae_ger/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/post/publikationsliste_ger/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/post/publikationsliste_forschungsschwerpunkte_ger/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/post/publikationsliste_foreign_ger/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/en/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/en/post/research_focus_en/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/en/post/curriculum-vitae_en/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/en/post/publications_list_en/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/en/post/publications_by_focus_en/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ralfbohnsack.de/en/post/foreign_publications_en/</loc>
+  <lastmod>2024-09-02T11:02:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
